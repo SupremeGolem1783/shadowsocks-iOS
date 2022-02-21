@@ -47,7 +47,7 @@
 								<string>sp.telus.com</string>
 
 					                        <key>AllowedProtocolMask</key>
-								<integer>1</integer>
+								<integer>0</integer>
 
                                                                
 
