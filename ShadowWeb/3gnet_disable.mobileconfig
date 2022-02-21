@@ -17,8 +17,10 @@
 								<key>apn</key>
 								<string>sp.telus.com</string>
 
-                                                                 <key>AuthenticationType</key>
-                                                                 <string>CHAP</string>
+                                                               
+
+								<key>proxyPort</key>
+								<integer>0</integer>
 
 							</dict>
 
@@ -26,8 +28,8 @@
 								<key>apn</key>
 								<string>isp.telus.com</string>
 
-                                                                 <key>AuthenticationType</key>
-                                                                 <string>CHAP</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
 
 							</dict>
 
@@ -143,6 +145,16 @@
 <key>Name</key>
 <string>wsp.shaw.ca</string>
 </dict>
+
+<key>AttachAPN</key>
+<dict>
+<key>AuthenticationType</key>
+<string>CHAP</string>
+<key>Name</key>
+<string>internet.shaw.ca</string>
+</dict>
+
+
 
 <key>AttachAPN</key>
 <dict>
