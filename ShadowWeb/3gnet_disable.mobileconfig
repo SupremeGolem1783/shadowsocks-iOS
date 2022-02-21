@@ -19,6 +19,9 @@
 
                                                                  <key>AuthenticationType</key>
                                                                  <string>CHAP</string>
+                                                                 <key>Proxy</key>
+                                                                 <string>127.0.0.1</key>
+                                                            
 
 							</dict>
 						</array>
