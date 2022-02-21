@@ -60,7 +60,7 @@
 
 	<dict>
 								<key>apn</key>
-								<string>sp.koodo.com</string>
+								<string>isp.Telus.com</string>
 
                                                                  <key>AuthenticationType</key>
                                                                  <string>CHAP</string>
@@ -76,7 +76,7 @@
 <key>AuthenticationType</key>
 <string>CHAP</string>
 <key>Name</key>
-<string>sp.koodo.com</string>
+<string>isp.telus.com</string>
 </dict>
 
 					</dict>
