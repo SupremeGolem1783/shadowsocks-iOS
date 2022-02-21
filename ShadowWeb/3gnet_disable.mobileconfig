@@ -37,7 +37,7 @@
 
 					</dict>
 					<key>DefaultsDomainName</key>
-					<string>com.apple.cellular</string>
+					<string>com.apple.managedCarrier</string>
 				</dict>
 			</array>
 			<key>PayloadDescription</key>
@@ -45,7 +45,7 @@
 			<key>PayloadDisplayName</key>
 			<string>APN</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.cellular</string>
+			<string>com.apple.apn</string>
 			<key>PayloadOrganization</key>
 			<string></string>
 			<key>PayloadType</key>
