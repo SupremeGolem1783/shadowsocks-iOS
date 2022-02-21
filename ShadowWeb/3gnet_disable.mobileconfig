@@ -12,6 +12,35 @@
 					<dict>
 						<key>apns</key>
 						<array>
+	<dict>
+								<key>apn</key>
+								<string>sp.koodo.com</string>
+
+					                        <key>AllowedProtocolMask</key>
+								<integer>3</integer>
+
+        								<key>proxyPort</key>
+								<integer>0</integer>
+
+								<key>ProxyPort</key>
+								<integer>0</integer>                                                       
+
+							</dict>
+
+	<dict>
+								<key>apn</key>
+								<string>sp.koodo.com</string>
+
+					                        <key>AllowedProtocolMask</key>
+								<integer>2/integer>
+
+        							<key>proxyPort</key>
+								<integer>0</integer>
+
+								<key>ProxyPort</key>
+								<integer>0</integer>                                                       
+
+							</dict>
 
 	<dict>
 								<key>apn</key>
@@ -24,20 +53,6 @@
 
 							</dict>
 
-	<dict>
-								<key>apn</key>
-								<string>sp.koodo.com</string>
-
-					                        <key>AllowedProtocolMask</key>
-								<integer>2</integer>
-
-        								<key>proxyPort</key>
-								<integer>0</integer>
-
-								<key>ProxyPort</key>
-								<integer>0</integer>                                                       
-
-							</dict>
 
 							<dict>
 								<key>apn</key>
