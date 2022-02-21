@@ -15,7 +15,7 @@
 						
 	<dict>
 								<key>apn</key>
-								<string>sp.telus.com</string>
+								<string>sp.koodo.com</string>
 	<key>AllowedProtocolMask</key>
 <integer>1</integer>
 							</dict>
@@ -30,7 +30,7 @@
 <key>AuthenticationType</key>
 <string>CHAP</string>
 <key>Name</key>
-<string>sp.telus.com</string>
+<string>sp.koodo.com</string>
 <key>AllowedProtocolMask</key>
 <integer>1</integer>
 </dict>
