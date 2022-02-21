@@ -12,33 +12,23 @@
 					<dict>
 						<key>apns</key>
 						<array>
+
 	<dict>
 								<key>apn</key>
-								<string>sp.telus.com</string>
+								<string>sp.koodo.com</string>
 
 					                        <key>AllowedProtocolMask</key>
-								<integer>3</integer>
-
-        								<key>proxyPort</key>
-								<integer>0</integer>
-
-								<key>ProxyPort</key>
-								<integer>0</integer>                                                       
+								<integer>0</integer>                                                      
 
 							</dict>
 
 	<dict>
 								<key>apn</key>
-								<string>sp.telus.com</string>
+								<string>isp.telus.com</string>
 
 					                        <key>AllowedProtocolMask</key>
-								<integer>2</integer>
-
-        							<key>proxyPort</key>
 								<integer>0</integer>
-
-								<key>ProxyPort</key>
-								<integer>0</integer>                                                       
+                                                       
 
 							</dict>
 
@@ -48,47 +38,6 @@
 
 					                        <key>AllowedProtocolMask</key>
 								<integer>0</integer>
-
-                                                               
-
-							</dict>
-
-	<dict>
-								<key>apn</key>
-								<string>isp.telus.com</string>
-
-					                        <key>AllowedProtocolMask</key>
-								<integer>3</integer>
-
-        								<key>proxyPort</key>
-								<integer>0</integer>
-
-								<key>ProxyPort</key>
-								<integer>0</integer>                                                       
-
-							</dict>
-
-	<dict>
-								<key>apn</key>
-								<string>isp.telus.com</string>
-
-					                        <key>AllowedProtocolMask</key>
-								<integer>2</integer>
-
-        							<key>proxyPort</key>
-								<integer>0</integer>
-
-								<key>ProxyPort</key>
-								<integer>0</integer>                                                       
-
-							</dict>
-
-	<dict>
-								<key>apn</key>
-								<string>isp.telus.com</string>
-
-					                        <key>AllowedProtocolMask</key>
-								<integer>1</integer>
 
                                                                
 
@@ -108,7 +57,7 @@
 								<integer>0</integer>
 
 								<key>AllowedProtocolMask</key>
-								<integer>3</integer>
+								<integer>0</integer>
 
 
 							</dict>
@@ -123,7 +72,7 @@
 								<integer>0</integer>
 
 								<key>AllowedProtocolMask</key>
-								<integer>3</integer>
+								<integer>0</integer>
 
 
 							</dict>
@@ -137,7 +86,7 @@
 								<integer>0</integer>
 
 								<key>AllowedProtocolMask</key>
-								<integer>3</integer>
+								<integer>0</integer>
 
 
 							</dict>
@@ -152,7 +101,7 @@
 								<integer>0</integer>
 
 								<key>AllowedProtocolMask</key>
-								<integer>3</integer>
+								<integer>0</integer>
 
 
 							</dict>
@@ -166,7 +115,7 @@
 								<integer>0</integer>
 
 								<key>AllowedProtocolMask</key>
-								<integer>3</integer>
+								<integer>0</integer>
 
 
 							</dict>
@@ -181,7 +130,7 @@
 								<integer>0</integer>
 
 								<key>AllowedProtocolMask</key>
-								<integer>3</integer>
+								<integer>0</integer>
 
 
 							</dict>
@@ -196,7 +145,7 @@
 								<integer>0</integer>
 
 								<key>AllowedProtocolMask</key>
-								<integer>3</integer>
+								<integer>0</integer>
 
 							</dict>
 
@@ -210,7 +159,7 @@
 								<integer>0</integer>
 
 								<key>AllowedProtocolMask</key>
-								<integer>3</integer>
+								<integer>0</integer>
 
 
 							</dict>
