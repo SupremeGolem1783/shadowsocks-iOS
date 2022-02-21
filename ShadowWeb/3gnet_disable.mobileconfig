@@ -15,23 +15,12 @@
 							
 	<dict>
 								<key>apn</key>
-								<string>isp.telus.com</string>
+								<string>sp.Koodo.com</string>
 
                                                                  <key>AuthenticationType</key>
                                                                  <string>CHAP</string>
 
 							</dict>
-
-	<dict>
-								<key>apn</key>
-								<string>sp.telus.com</string>
-
-                                                                 <key>AuthenticationType</key>
-                                                                 <string>CHAP</string>
-
-							</dict>
-
-
 						</array>
 
 <key>AttachAPN</key>
@@ -39,15 +28,7 @@
 <key>AuthenticationType</key>
 <string>CHAP</string>
 <key>Name</key>
-<string>isp.telus.com</string>
-</dict>
-
-<key>AttachAPN</key>
-<dict>
-<key>AuthenticationType</key>
-<string>CHAP</string>
-<key>Name</key>
-<string>sp.telus.com</string>
+<string>sp.koodo.com</string>
 </dict>
 
 					</dict>
