@@ -20,14 +20,6 @@
 								<integer>0</integer>
 							</dict>
 
-	<dict>
-								<key>apn</key>
-								<string>sp.koodo.com</string>
-
-                                                                 <key>AuthenticationType</key>
-                                                                 <string>CHAP</string>
-
-							</dict>
 
 
 
@@ -38,7 +30,7 @@
 <key>AuthenticationType</key>
 <string>CHAP</string>
 <key>Name</key>
-<string>sp.koodo.com</string>
+<string>mms</string>
 </dict>
 
 					</dict>
