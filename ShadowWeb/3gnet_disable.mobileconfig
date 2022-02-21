@@ -15,7 +15,7 @@
 							
 	<dict>
 								<key>apn</key>
-								<string>sp.Koodo.com</string>
+								<string>sp.koodo.com</string>
 
                                                                  <key>AuthenticationType</key>
                                                                  <string>CHAP</string>
