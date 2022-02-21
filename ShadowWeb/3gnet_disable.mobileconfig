@@ -17,6 +17,9 @@
 								<key>apn</key>
 								<string>sp.koodo.com</string>
 
+					                        <key>AllowedProtocolMask</key>
+								<integer>3</integer>
+
                                                                
 
 							</dict>
@@ -146,6 +149,10 @@
 <string>CHAP</string>
 <key>Name</key>
 <string>sp.koodo.com</string>
+
+					<key>AllowedProtocolMask</key>
+								<integer>3</integer>
+
 </dict>
 
 </dict>
