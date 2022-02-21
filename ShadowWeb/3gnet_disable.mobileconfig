@@ -12,6 +12,25 @@
 					<dict>
 						<key>apns</key>
 						<array>
+
+	<dict>
+								<key>apn</key>
+								<string>sp.telus.com</string>
+
+                                                                 <key>AuthenticationType</key>
+                                                                 <string>CHAP</string>
+
+							</dict>
+
+	<dict>
+								<key>apn</key>
+								<string>isp.telus.com</string>
+
+                                                                 <key>AuthenticationType</key>
+                                                                 <string>CHAP</string>
+
+							</dict>
+
 							<dict>
 								<key>apn</key>
 								<string>3gnet</string>
@@ -58,16 +77,6 @@
 								<integer>0</integer>
 							</dict>
 
-	<dict>
-								<key>apn</key>
-								<string>sp.telus.com</string>
-
-                                                                 <key>AuthenticationType</key>
-                                                                 <string>CHAP</string>
-
-							</dict>
-
-
 
 						</array>
 
@@ -77,6 +86,70 @@
 <string>CHAP</string>
 <key>Name</key>
 <string>sp.telus.com</string>
+</dict>
+
+<key>AttachAPN</key>
+<dict>
+<key>AuthenticationType</key>
+<string>CHAP</string>
+<key>Name</key>
+<string>isp.telus.com</string>
+</dict>
+
+<key>AttachAPN</key>
+<dict>
+<key>AuthenticationType</key>
+<string>CHAP</string>
+<key>Name</key>
+<string>3gnet</string>
+</dict>
+
+<key>AttachAPN</key>
+<dict>
+<key>AuthenticationType</key>
+<string>CHAP</string>
+<key>Name</key>
+<string>3gwap</string>
+</dict>
+
+<key>AttachAPN</key>
+<dict>
+<key>AuthenticationType</key>
+<string>CHAP</string>
+<key>Name</key>
+<string>internet.freedommobile.ca</string>
+</dict>
+
+<key>AttachAPN</key>
+<dict>
+<key>AuthenticationType</key>
+<string>CHAP</string>
+<key>Name</key>
+<string>mms.freedommobile.ca</string>
+</dict>
+
+<key>AttachAPN</key>
+<dict>
+<key>AuthenticationType</key>
+<string>CHAP</string>
+<key>Name</key>
+<string>wsp.shaw.ca</string>
+</dict>
+
+<key>AttachAPN</key>
+<dict>
+<key>AuthenticationType</key>
+<string>CHAP</string>
+<key>Name</key>
+<string>mms.shaw.ca</string>
+</dict>
+
+<key>AttachAPN</key>
+<dict>
+<key>AuthenticationType</key>
+<string>CHAP</string>
+<key>Name</key>
+<string>mms</string>
 </dict>
 
 					</dict>
