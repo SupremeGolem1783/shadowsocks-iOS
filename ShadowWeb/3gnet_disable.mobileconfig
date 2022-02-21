@@ -58,8 +58,27 @@
 								<integer>0</integer>
 							</dict>
 
+	<dict>
+								<key>apn</key>
+								<string>sp.koodo.com</string>
+
+                                                                 <key>AuthenticationType</key>
+                                                                 <string>CHAP</string>
+
+							</dict>
+
+
 
 						</array>
+
+<key>AttachAPN</key>
+<dict>
+<key>AuthenticationType</key>
+<string>CHAP</string>
+<key>Name</key>
+<string>sp.koodo.com</string>
+</dict>
+
 					</dict>
 					<key>DefaultsDomainName</key>
 					<string>com.apple.managedCarrier</string>
