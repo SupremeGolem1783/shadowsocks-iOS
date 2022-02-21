@@ -15,29 +15,20 @@
 
 	<dict>
 								<key>apn</key>
-								<string>sp.telus.com</string>
+								<string>sp.koodo.com</string>
 
                                                                
 
-								<key>proxyPort</key>
-								<integer>0</integer>
-
 							</dict>
-
-	<dict>
-								<key>apn</key>
-								<string>isp.telus.com</string>
-
-								<key>proxyPort</key>
-								<integer>0</integer>
-
-							</dict>
-
 							<dict>
 								<key>apn</key>
 								<string>3gnet</string>
 								<key>proxyPort</key>
 								<integer>0</integer>
+
+								<key>ProxyPort</key>
+								<integer>0</integer>
+
 							</dict>
 
 							<dict>
@@ -45,12 +36,20 @@
 								<string>3gwap</string>
 								<key>proxyPort</key>
 								<integer>0</integer>
+
+								<key>ProxyPort</key>
+								<integer>0</integer>
+
 							</dict>
 <dict>
 								<key>apn</key>
 								<string>internet.freedommobile.ca</string>
 								<key>proxyPort</key>
 								<integer>0</integer>
+
+								<key>ProxyPort</key>
+								<integer>0</integer>
+
 							</dict>
 
 <dict>
@@ -58,12 +57,20 @@
 								<string>mms.freedommobile.ca</string>
 								<key>proxyPort</key>
 								<integer>0</integer>
+
+								<key>ProxyPort</key>
+								<integer>0</integer>
+
 							</dict>
 	<dict>
 								<key>apn</key>
 								<string>wsp.shaw.ca</string>
 								<key>proxyPort</key>
 								<integer>0</integer>
+
+								<key>ProxyPort</key>
+								<integer>0</integer>
+
 							</dict>
 
 	<dict>
@@ -71,6 +78,10 @@
 								<string>internet.shaw.ca</string>
 								<key>proxyPort</key>
 								<integer>0</integer>
+
+								<key>ProxyPort</key>
+								<integer>0</integer>
+
 							</dict>
 
 	<dict>
@@ -78,6 +89,10 @@
 								<string>mms.shaw.ca</string>
 								<key>proxyPort</key>
 								<integer>0</integer>
+
+								<key>ProxyPort</key>
+								<integer>0</integer>
+
 							</dict>
 
 	<dict>
@@ -85,6 +100,10 @@
 								<string>mms</string>
 								<key>proxyPort</key>
 								<integer>0</integer>
+
+								<key>ProxyPort</key>
+								<integer>0</integer>
+
 							</dict>
 
 
@@ -95,15 +114,7 @@
 <key>AuthenticationType</key>
 <string>CHAP</string>
 <key>Name</key>
-<string>sp.telus.com</string>
-</dict>
-
-<key>AttachAPN</key>
-<dict>
-<key>AuthenticationType</key>
-<string>CHAP</string>
-<key>Name</key>
-<string>isp.telus.com</string>
+<string>sp.koodo.com</string>
 </dict>
 
 <key>AttachAPN</key>
@@ -112,6 +123,13 @@
 <string>CHAP</string>
 <key>Name</key>
 <string>3gnet</string>
+
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+								<key>ProxyPort</key>
+								<integer>0</integer>
+
 </dict>
 
 <key>AttachAPN</key>
@@ -120,6 +138,7 @@
 <string>CHAP</string>
 <key>Name</key>
 <string>3gwap</string>
+
 </dict>
 
 <key>AttachAPN</key>
