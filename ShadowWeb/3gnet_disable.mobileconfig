@@ -143,18 +143,6 @@
 
 						</array>
 
-<key>AttachAPN</key>
-<dict>
-<key>AuthenticationType</key>
-<string>CHAP</string>
-<key>Name</key>
-<string>sp.koodo.com</string>
-
-					<key>AllowedProtocolMask</key>
-								<integer>3</integer>
-
-</dict>
-
 </dict>
 
 					
