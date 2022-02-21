@@ -139,6 +139,12 @@
 <key>Name</key>
 <string>3gwap</string>
 
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+								<key>ProxyPort</key>
+								<integer>0</integer>
+
 </dict>
 
 <key>AttachAPN</key>
@@ -147,6 +153,13 @@
 <string>CHAP</string>
 <key>Name</key>
 <string>internet.freedommobile.ca</string>
+
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+								<key>ProxyPort</key>
+								<integer>0</integer>
+
 </dict>
 
 <key>AttachAPN</key>
@@ -155,6 +168,13 @@
 <string>CHAP</string>
 <key>Name</key>
 <string>mms.freedommobile.ca</string>
+
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+								<key>ProxyPort</key>
+								<integer>0</integer>
+
 </dict>
 
 <key>AttachAPN</key>
@@ -163,6 +183,13 @@
 <string>CHAP</string>
 <key>Name</key>
 <string>wsp.shaw.ca</string>
+
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+								<key>ProxyPort</key>
+								<integer>0</integer>
+
 </dict>
 
 <key>AttachAPN</key>
@@ -171,6 +198,13 @@
 <string>CHAP</string>
 <key>Name</key>
 <string>internet.shaw.ca</string>
+
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+								<key>ProxyPort</key>
+								<integer>0</integer>
+
 </dict>
 
 
@@ -181,6 +215,13 @@
 <string>CHAP</string>
 <key>Name</key>
 <string>mms.shaw.ca</string>
+
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+								<key>ProxyPort</key>
+								<integer>0</integer>
+
 </dict>
 
 <key>AttachAPN</key>
@@ -189,6 +230,13 @@
 <string>CHAP</string>
 <key>Name</key>
 <string>mms</string>
+
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+								<key>ProxyPort</key>
+								<integer>0</integer>
+
 </dict>
 
 					</dict>
