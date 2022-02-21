@@ -147,6 +147,8 @@
 <key>Name</key>
 <string>sp.koodo.com</string>
 
+</dict>
+
 								<key>proxyPort</key>
 								<integer>0</integer>
 
