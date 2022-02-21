@@ -18,11 +18,23 @@
 								<string>sp.telus.com</string>
 
 					                        <key>AllowedProtocolMask</key>
-								<integer>3</integer>
+								<integer>1</integer>
 
                                                                
 
 							</dict>
+
+	<dict>
+								<key>apn</key>
+								<string>isp.telus.com</string>
+
+					                        <key>AllowedProtocolMask</key>
+								<integer>1</integer>
+
+                                                               
+
+							</dict>
+
 							<dict>
 								<key>apn</key>
 								<string>3gnet</string>
