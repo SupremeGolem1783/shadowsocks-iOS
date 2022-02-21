@@ -63,6 +63,14 @@
 								<key>proxyPort</key>
 								<integer>0</integer>
 							</dict>
+
+	<dict>
+								<key>apn</key>
+								<string>internet.shaw.ca</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+							</dict>
+
 	<dict>
 								<key>apn</key>
 								<string>mms.shaw.ca</string>
