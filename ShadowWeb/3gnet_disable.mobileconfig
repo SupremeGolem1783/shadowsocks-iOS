@@ -14,7 +14,7 @@
 						<array>
 							<dict>
 								<key>apn</key>
-								<string>3GNET</string>
+								<string>3gnet</string>
 								<key>proxyPort</key>
 								<integer>0</integer>
 							</dict>
