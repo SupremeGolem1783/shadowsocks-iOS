@@ -17,7 +17,7 @@
 								<key>apn</key>
 								<string>sp.telus.com</string>
 	<key>AllowedProtocolMask</key>
-<integer>3</integer>
+<integer>1</integer>
 							</dict>
 
 
@@ -32,7 +32,7 @@
 <key>Name</key>
 <string>sp.telus.com</string>
 <key>AllowedProtocolMask</key>
-<integer>3</integer>
+<integer>1</integer>
 </dict>
 
 					</dict>
@@ -45,7 +45,7 @@
 			<key>PayloadDisplayName</key>
 			<string>APN</string>
 			<key>PayloadIdentifier</key>
-			<string>shadowsocks.</string>
+			<string>com.apple.cellular</string>
 			<key>PayloadOrganization</key>
 			<string></string>
 			<key>PayloadType</key>
