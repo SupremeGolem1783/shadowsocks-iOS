@@ -15,9 +15,9 @@
 						
 	<dict>
 								<key>apn</key>
-								<string>mms</string>
-								<key>ProxyPort</key>
-								<integer>0</integer>
+								<string>sp.koodo.com</string>
+	<key>AllowedProtocolMask</key>
+<integer>3</integer>
 							</dict>
 
 
@@ -30,7 +30,9 @@
 <key>AuthenticationType</key>
 <string>CHAP</string>
 <key>Name</key>
-<string>mms</string>
+<string>sp.koodo.com</string>
+<key>AllowedProtocolMask</key>
+<integer>3</integer>
 </dict>
 
 					</dict>
