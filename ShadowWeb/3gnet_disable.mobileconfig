@@ -14,10 +14,51 @@
 						<array>
 							<dict>
 								<key>apn</key>
-								<string>3GNET</string>
+								<string>3gnet</string>
 								<key>proxyPort</key>
 								<integer>0</integer>
 							</dict>
+
+							<dict>
+								<key>apn</key>
+								<string>3gwap</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+							</dict>
+<dict>
+								<key>apn</key>
+								<string>internet.freedommobile.ca</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+							</dict>
+
+<dict>
+								<key>apn</key>
+								<string>mms.freedommobile.ca</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+							</dict>
+	<dict>
+								<key>apn</key>
+								<string>wsp.shaw.ca</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+							</dict>
+	<dict>
+								<key>apn</key>
+								<string>mms.shaw.ca</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+							</dict>
+
+	<dict>
+								<key>apn</key>
+								<string>mms</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+							</dict>
+
+
 						</array>
 					</dict>
 					<key>DefaultsDomainName</key>
