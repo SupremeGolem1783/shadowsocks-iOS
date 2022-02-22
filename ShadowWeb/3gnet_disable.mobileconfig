@@ -17,6 +17,9 @@
 								<key>apn</key>
 								<string>sp.telus.com</string>
 
+<key>type-mask</key>
+								<integer>17179869184</integer>
+
 							
 
 					                        
@@ -27,6 +30,9 @@
 	<dict>
 								<key>apn</key>
 								<string>isp.telus.com</string>
+
+<key>type-mask</key>
+								<integer>17179869184</integer>
 
 
 					                        
