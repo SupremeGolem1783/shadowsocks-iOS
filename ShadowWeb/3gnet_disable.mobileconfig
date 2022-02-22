@@ -15,11 +15,11 @@
 						<array>
 							<dict>
                 <key>apn</key>
-                <string>{{carrier.apn}}</string>
+                <string>sp.koodo.com</string>
                 <key>username</key>
-                <string>{{carrier.username}}</string>
+                <string></string>
                 <key>password</key>
-                <string>{{carrier.password}}</string>
+                <string></string>
 								
 								<key>type-mask</key>
 								<integer>0</integer>
