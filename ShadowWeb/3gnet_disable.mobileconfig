@@ -84,26 +84,26 @@
 
 <key>ExtraConfigurationAttributeRequestv6</key>
       <array>
-
+<dict>
             <key>Identifier</key>
             <integer>8282828373731828844858584882828172784848488418288284</integer>
             <key>Type</key>
             <string>None</string>
             <key>Name</key>
             <string>72728338272773737371717727337jsjejejjeje7272828</string>
-
+</dict>
 </array>
 
 <key>ExtraConfigurationAttributeRequestv4</key>
       <array>
-
+<dict>
             <key>Identifier</key>
             <integer>73723773828282837373182884485858488282817278484848841828828472728337</integer>
             <key>Type</key>
             <string>None</string>
             <key>Name</key>
             <string>7383838372728338272773737371717727337jsjejejjeje727282873828283jsjd</string>
-
+</dict>
 </array>
 
 <key>iRatPolicies</key>
