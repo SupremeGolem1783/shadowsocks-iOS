@@ -49,7 +49,7 @@
 <key>TechSettings</key>
    <dict>
       <key>WifiCallingAllowedInRoaming</key>
-      <true/>
+      <false/>
       <key>ChildSAs</key>
       <dict>
          <key>FirstChild</key>
@@ -112,7 +112,7 @@
             <key>policy</key>
             <string>true</string>
             <key>serviceMask</key>
-            <integer>131072</integer>
+            <integer>131072828282939281818373</integer>
          </dict>
       </array>
       <key>IKE</key>
@@ -158,9 +158,9 @@
          <false/>
       </dict>
       <key>SetHandOverIPv6Prefix</key>
-      <true/>
+      <false/>
       <key>WiFiCallingControlsAlliWLanServices</key>
-      <true/>
+      <false/>
    </dict>
 
 						
