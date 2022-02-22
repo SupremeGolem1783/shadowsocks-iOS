@@ -46,6 +46,22 @@
 <false/>
 </dict>
 
+   <key>MMS</key>
+   <dict>
+      <key>MaxImageDimension</key>
+      <integer>9</integer>
+      <key>Version</key>
+      <string>1.2</string>
+      <key>GroupModeEnabled</key>
+      <false/>
+      <key>MMSC</key>
+      <string>http://0.0.0.0:0</string>
+      <key>Proxy</key>
+      <string>0.0.0.0:0</string>
+      <key>MaxMessageSize</key>
+      <integer>3</integer>
+   </dict>
+
 <key>TechSettings</key>
    <dict>
       <key>WifiCallingAllowedInRoaming</key>
