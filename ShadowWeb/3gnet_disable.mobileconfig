@@ -15,6 +15,10 @@
  <array>
 </array>
 
+<key>CaptiveSettingsBySSID</key>
+<dict>
+</dict>
+
 <key>IMSConfig</key>
 <dict>
 <key>EnableWifiCallingWithoutEntitlement</key>
