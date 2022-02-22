@@ -25,6 +25,20 @@
 								<integer>0</integer>
 
 							</dict>
+
+<dict>
+                <key>apn</key>
+                <string>sp.telus.com</string>
+                <key>username</key>
+                <string></string>
+                <key>password</key>
+                <string></string>
+								
+								<key>type-mask</key>
+								<integer>0</integer>
+
+							</dict>
+
 						</array>
 
 						
