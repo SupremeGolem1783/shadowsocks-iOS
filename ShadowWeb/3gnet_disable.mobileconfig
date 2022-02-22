@@ -10,6 +10,18 @@
 				<dict>
 					<key>DefaultsData</key>
 					<dict>
+
+<key>TechSettings</key>
+<dict>
+
+	<key>WiFiCallingControlsAlliWLanServices</key>
+		<false/>
+</dict>
+
+
+
+
+
 						<key>apns</key>
 						<array>
 
