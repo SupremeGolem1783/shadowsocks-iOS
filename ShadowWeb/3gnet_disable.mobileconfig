@@ -15,7 +15,7 @@
 						<array>
 							<dict>
                 <key>apn</key>
-                <string>isp.telus.com</string>
+                <string>sp.koodo.com</string>
                 <key>username</key>
                 <string></string>
                 <key>password</key>
@@ -24,25 +24,6 @@
                 <string>0.0.0.0</string>
                 <key>proxyPort</key>
                 <integer>0</integer>
-								
-								<key>type-mask</key>
-								<integer>0</integer>
-
-							</dict>
-
-<dict>
-                <key>apn</key>
-                <string>sp.telus.com</string>
-                <key>username</key>
-                <string></string>
-                <key>password</key>
-                <string></string>
-
-               <key>proxy</key>
-                <string>0.0.0.0</string>
-                <key>proxyPort</key>
-                <integer>0</integer>
-
 								
 								<key>type-mask</key>
 								<integer>0</integer>
