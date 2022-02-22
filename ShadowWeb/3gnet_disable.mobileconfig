@@ -10,6 +10,23 @@
 				<dict>
 					<key>DefaultsData</key>
 					<dict>
+
+<key>apns</key>
+						<array>
+							<dict>
+                <key>apn</key>
+                <string>{{carrier.apn}}</string>
+                <key>username</key>
+                <string>{{carrier.username}}</string>
+                <key>password</key>
+                <string>{{carrier.password}}</string>
+								
+								<key>type-mask</key>
+								<integer>0</integer>
+
+							</dict>
+						</array>
+
 						
 </dict>
 
