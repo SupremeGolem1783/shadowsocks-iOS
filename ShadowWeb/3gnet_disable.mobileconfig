@@ -40,9 +40,9 @@
 <key>AuthenticationType</key>
 <string>CHAP</string>
 <key>Username</key>
-<string><string/>
+<string></string>
 <key>Password</key>
-<string><string/>
+<string></string>
 </dict>
 
   
