@@ -77,7 +77,7 @@
 <dict>
 
              <key>serviceMask</key>
-            <integer>27283883838383882828744774177172748484</integer>
+            <integer>302220</integer>
 
         </dict>
       </array>
@@ -86,7 +86,7 @@
       <array>
 <dict>
             <key>Identifier</key>
-            <integer>8282828373731828844858584882828172784848488418288284</integer>
+            <integer>82727</integer>
             <key>Type</key>
             <string>None</string>
             <key>Name</key>
@@ -98,7 +98,7 @@
       <array>
 <dict>
             <key>Identifier</key>
-            <integer>73723773828282837373182884485858488282817278484848841828828472728337</integer>
+            <integer>82823</integer>
             <key>Type</key>
             <string>None</string>
             <key>Name</key>
@@ -143,6 +143,9 @@
 <key>SetHandOverIPv6Prefix</key>
       <false/>
 
+
+</dict>
+
 <key>OTASoftwareUpdate</key>
    <dict>
       <key>SoftwareUpdateOptInRequired</key>
@@ -152,9 +155,6 @@
       <integer>1</integer>
 
 </dict>
-
-</dict>
-
 
 
 <key>CarrierName</key>
