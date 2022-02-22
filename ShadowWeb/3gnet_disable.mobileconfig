@@ -102,6 +102,13 @@
          <key>supportPEarlyMediaHeader</key>
          <true/>
       </dict>
+
+<key>Media</key>
+		<dict>
+			<key>AudioCodecs</key>
+			<dict>
+</dict>
+</dict>
       <key>ConferenceCalling</key>
       <dict>
          <key>AlwaysSubscribeToConferenceEvents</key>
