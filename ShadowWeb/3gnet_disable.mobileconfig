@@ -11,21 +11,14 @@
 					<key>DefaultsData</key>
 					<dict>
 
-<key>apns</key>
-						<array>
-							<dict>
-                <key>apn</key>
-                <string>isp.telus.com</string>
-                <key>username</key>
-                <string></string>
-                <key>password</key>
-                <string></string>
-								
-								<key>type-mask</key>
-								<integer>0</integer>
+<key>TechSettings</key>
+<dict>
 
-							</dict>
-						</array>
+	<key>WiFiCallingControlsAlliWLanServices</key>
+		<false/>								
+							
+
+</dict>
 
 						
 </dict>
