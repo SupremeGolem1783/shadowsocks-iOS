@@ -26,10 +26,6 @@
 <false/>
 </dict>
 
-<key>WISPrAccounts</key>
-<dict>
-</dict>
-
 <key>MaxBluetoothModemConnections</key>
 <integer>0/integer>
 
@@ -44,16 +40,11 @@
 
 <key>Services</key>
 <array>
- <dict>
-</dict>
+
 </array>
 
 <key>TetheringURL</key>
 <string>https://sjejejjje.jejejieiwieieieii2882838.com</string>
-
-<key>MMS</key>
-<dict>
-</dict>
 
 
 <key>TechSettings</key>
