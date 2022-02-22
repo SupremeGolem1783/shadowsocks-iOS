@@ -23,6 +23,11 @@
 
 </dict>
 
+<key>SupportedPLMNs</key>
+   <array>
+      <string>26203</string>
+   </array>
+
 <key>RegistrationOptInRequired</key>
 <true/>
 
