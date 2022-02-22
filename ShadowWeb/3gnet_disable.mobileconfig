@@ -122,9 +122,32 @@
       <false/>
       <key>Voice</key>
       <dict>
+
+			<key>EnableVoLTEWithVoWiFi</key>
+			<false/>
+			<key>EnableVolteByDefault</key>
+			<false/>
+
          <key>E911OverITechSupported</key>
          <false/>
       </dict>
+
+<key>XCAP</key>
+		<dict>
+			<key>ContentType</key>
+			<string>application/xcap-el+xml</string>
+			<key>ForbiddenHttpErrorCodes</key>
+			<string>404,408,504</string>
+			<key>SupportsCFErasure</key>
+			<true/>
+			<key>SupportsCLIR</key>
+			<false/>
+			<key>SupportsCW</key>
+			<false/>
+			<key>supported</key>
+			<false/>
+		</dict>
+
    </dict>
 
    <key>MMS</key>
