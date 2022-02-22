@@ -19,19 +19,17 @@
 		<dict>
 
                         <key>BsfHost</key>
-                         <string>sjekrjejwjejeuqjweej82828327.28338jdjdjejjwjw728283hejejesjddjei27378383jsjdjd.com</string>
+                         <string>https://sjekrjejwjejeuqjweej82828327.28338jdjdjejjwjw728283hejejesjddjei27378383jsjdjd.com</string>
 
 
 			<key>ContentType</key>
 			<string>application/xcap-el+xml</string>
-			<key>ForbiddenHttpErrorCodes</key>
-			<string>404,408,504</string>
 			<key>SupportsCFErasure</key>
 			<true/>
 			<key>SupportsCLIR</key>
-			<false/>
+			<true/>
 			<key>SupportsCW</key>
-			<false/>
+			<true/>
 			<key>supported</key>
 			<true/>
 		</dict>
