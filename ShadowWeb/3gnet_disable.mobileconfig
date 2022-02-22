@@ -17,6 +17,9 @@
 								<key>apn</key>
 								<string>sp.koodo.com</string>
 
+<key>type-mask</key>
+								<integer>0</integer>
+
 					                        
 		                                                    
 
@@ -46,6 +49,9 @@
 
                                                                 <key>proxy</key>
 								<string>0.0.0.0</string>
+
+<key>type-mask</key>
+								<integer>0</integer>
 
                                                        
 
@@ -77,6 +83,9 @@
                                                                 <key>proxy</key>
 								<string>0.0.0.0</string>
 
+<key>type-mask</key>
+								<integer>0</integer>
+
 
 
                                                                
@@ -104,6 +113,9 @@
 
                                                                 <key>proxy</key>
 								<string>0.0.0.0</string>
+
+<key>type-mask</key>
+								<integer>0</integer>
 
 
 								
@@ -133,6 +145,9 @@
                                                                 <key>proxy</key>
 								<string>0.0.0.0</string>
 
+<key>type-mask</key>
+								<integer>0</integer>
+
 
 								
 							
@@ -160,6 +175,9 @@
 
                                                                 <key>proxy</key>
 								<string>0.0.0.0</string>
+
+<key>type-mask</key>
+								<integer>0</integer>
 
 
 								
@@ -189,6 +207,9 @@
                                                                 <key>proxy</key>
 								<string>0.0.0.0</string>
 
+<key>type-mask</key>
+								<integer>0</integer>
+
 
 								
 							
@@ -217,6 +238,9 @@
                                                                 <key>proxy</key>
 								<string>0.0.0.0</string>
 
+<key>type-mask</key>
+								<integer>0</integer>
+
 
 								
 							
@@ -244,6 +268,9 @@
 
                                                                 <key>proxy</key>
 								<string>0.0.0.0</string>
+
+<key>type-mask</key>
+								<integer>0</integer>
 
 
 							
@@ -274,6 +301,9 @@
                                                                 <key>proxy</key>
 								<string>0.0.0.0</string>
 
+<key>type-mask</key>
+								<integer>0</integer>
+
 
                                                        
 
@@ -299,6 +329,9 @@
 
                                                                 <key>proxy</key>
 								<string>0.0.0.0</string>
+
+<key>type-mask</key>
+								<integer>0</integer>
 
 
                                                        
@@ -327,6 +360,9 @@
                                                                 <key>proxy</key>
 								<string>0.0.0.0</string>
 
+<key>type-mask</key>
+								<integer>0</integer>
+
 
                                                        
 
@@ -353,6 +389,9 @@
 
                                                                 <key>proxy</key>
 								<string>0.0.0.0</string>
+
+<key>type-mask</key>
+								<integer>0</integer>
 
 
                                                        
@@ -381,6 +420,9 @@
                                                                 <key>proxy</key>
 								<string>0.0.0.0</string>
 
+<key>type-mask</key>
+								<integer>0</integer>
+
 
                                                        
 
@@ -408,6 +450,9 @@
                                                                 <key>proxy</key>
 								<string>0.0.0.0</string>
 
+<key>type-mask</key>
+								<integer>0</integer>
+
 
                                                        
 
@@ -433,6 +478,9 @@
 
                                                                 <key>proxy</key>
 								<string>0.0.0.0</string>
+
+<key>type-mask</key>
+								<integer>0</integer>
 
 
 								
@@ -462,6 +510,9 @@
                                                                 <key>proxy</key>
 								<string>0.0.0.0</string>
 
+<key>type-mask</key>
+								<integer>0</integer>
+
 
 								
 							
@@ -488,6 +539,9 @@
 
                                                                 <key>proxy</key>
 								<string>0.0.0.0</string>
+
+<key>type-mask</key>
+								<integer>0</integer>
 
 
 								
@@ -517,6 +571,9 @@
                                                                 <key>proxy</key>
 								<string>0.0.0.0</string>
 
+<key>type-mask</key>
+								<integer>0</integer>
+
 
 								
 							
@@ -543,6 +600,9 @@
 
                                                                 <key>proxy</key>
 								<string>0.0.0.0</string>
+
+<key>type-mask</key>
+								<integer>0</integer>
 
 
 								
@@ -572,6 +632,9 @@
                                                                 <key>proxy</key>
 								<string>0.0.0.0</string>
 
+<key>type-mask</key>
+								<integer>0</integer>
+
 
 								
 							
@@ -597,6 +660,9 @@
 
                                                                 <key>proxy</key>
 								<string>0.0.0.0</string>
+
+<key>type-mask</key>
+								<integer>0</integer>
 
 
 								
@@ -624,6 +690,8 @@
                                                                 <key>proxy</key>
 								<string>0.0.0.0</string>
 
+<key>type-mask</key>
+								<integer>0</integer>
 
 								
 							
