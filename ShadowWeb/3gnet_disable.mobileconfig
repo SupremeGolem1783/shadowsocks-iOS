@@ -86,9 +86,9 @@
             <key>Identifier</key>
             <integer>163848282919919494</integer>
             <key>Type</key>
-            <string>IPv4Address</string>
+            <string>None</string>
             <key>Name</key>
-            <string>AssignedPCSCFIPv4</string>
+            <string>jskddkrk82828933</string>
          </dict>
       </array>
       <key>5wiServiceMask</key>
@@ -99,9 +99,9 @@
             <key>Identifier</key>
             <integer>163902882939483</integer>
             <key>Type</key>
-            <string>IPv6Address</string>
+            <string>None</string>
             <key>Name</key>
-            <string>AssignedPCSCFIPv6</string>
+            <string>82838482828883jsjsjdjjd</string>
          </dict>
       </array>
       <key>EPDGResolutionFallbackEnabled</key>
