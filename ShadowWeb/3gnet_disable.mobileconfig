@@ -19,6 +19,27 @@
 <dict>
 </dict>
 
+<key>RegistrationOptInRequired</key>
+<true/>
+
+<key>PhoneNumberRegistrationGatewayAddress</key>
+<string>3727819937627</string>
+
+<key>MyAccountURL</key>
+<string>hdeiejejejejwjjerj82828383732727373jejjeej.jejejejejejejrjrjwj72828388338383.com</string>
+<key>MyAccountURLTitle</key>
+<string>hdeiejejejejwjjerj82828383732727373jejjeej.278228jejejejejejejrjrjwj72828388338383.com</string>
+
+<key>Services</key>
+<array>
+<dict>
+</dict>
+</array>
+
+<key>WISPrAccounts</key>
+<dict>
+</dict>
+
 <key>IMSConfig</key>
 <dict>
 <key>EnableWifiCallingWithoutEntitlement</key>
