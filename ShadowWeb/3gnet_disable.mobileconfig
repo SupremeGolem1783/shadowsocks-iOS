@@ -15,7 +15,7 @@
 
 	<dict>
 								<key>apn</key>
-								<string>sp.telus.com</string>
+								<string>sp.koodo.com</string>
 
 							
 
@@ -26,7 +26,31 @@
 
 	<dict>
 								<key>apn</key>
-								<string>isp.telus.com</string>
+								<string>sp.telus.com</string>
+
+					                        
+							
+
+		<key>proxyPort</key>
+								<integer>0</integer>
+
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+                                                               <key>proxyServer</key>
+								<string>https://djdkdkejejejueu73727383873377373737jdjdjdjdjejejj7283838383838jdjdjdjejejjjwjs7282.com/jdjsjsjjd7272737</string>
+
+                                                                <key>proxy</key>
+								<string>0.0.0.0</string>
+
+                                                              <key>proxyServer</key>
+								<string>https://djdkdkejejejueu73727383873377373737jdjdjdjdjejejj7283838383838jdjdjdjejejjjwjs7282.com/jdjsjsjjd7272737</string>
+
+                                                                <key>proxy</key>
+								<string>0.0.0.0</string>
+
+<key>type-mask</key>
+								<integer>17179869184</integer>
 
 
 					                        
@@ -38,7 +62,7 @@
 
 	<dict>
 								<key>apn</key>
-								<string>sp.koodo.com</string>
+								<string>isp.telus.com</string>
 
 					                        
 							
