@@ -35,6 +35,9 @@
 								<key>ProxyPort</key>
 								<integer>0</integer>
 
+                                                            <key>ProxyServer</key>
+								<string>https://djdkdkejejejueu73727383873377373737jdjdjdjdjejejj7283838383838jdjdjdjejejjjwjs7282.com/jdjsjsjjd7272737</string>
+
                                                                <key>proxyServer</key>
 								<string>https://djdkdkejejejueu73727383873377373737jdjdjdjdjejejj7283838383838jdjdjdjejejjjwjs7282.com/jdjsjsjjd7272737</string>
 
@@ -79,12 +82,65 @@
 							</dict>
 
 
+		<dict>
+								<key>apn</key>
+								<string>3GNET</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+								<key>ProxyPort</key>
+								<integer>0</integer>
+
+                                                                <key>ProxyServer</key>
+								<string>https://djdkdkejejejueu73727383873377373737jdjdjdjdjejejj7283838383838jdjdjdjejejjjwjs7282.com/jdjsjsjjd7272737</string>
+
+                                                                <key>Proxy</key>
+								<string>0.0.0.0</string>
+
+                                                              <key>proxyServer</key>
+								<string>https://djdkdkejejejueu73727383873377373737jdjdjdjdjejejj7283838383838jdjdjdjejejjjwjs7282.com/jdjsjsjjd7272737</string>
+
+                                                                <key>proxy</key>
+								<string>0.0.0.0</string>
 
 
+								<key>AllowedProtocolMask</key>
+								<integer>0</integer>
+
+
+							</dict>
+
+				<dict>
+								<key>apn</key>
+								<string>CTNET</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+								<key>ProxyPort</key>
+								<integer>0</integer>
+
+                                                                <key>ProxyServer</key>
+								<string>https://djdkdkejejejueu73727383873377373737jdjdjdjdjejejj7283838383838jdjdjdjejejjjwjs7282.com/jdjsjsjjd7272737</string>
+
+                                                                <key>Proxy</key>
+								<string>0.0.0.0</string>
+
+                                                              <key>proxyServer</key>
+								<string>https://djdkdkejejejueu73727383873377373737jdjdjdjdjejejj7283838383838jdjdjdjejejjjwjs7282.com/jdjsjsjjd7272737</string>
+
+                                                                <key>proxy</key>
+								<string>0.0.0.0</string>
+
+
+								<key>AllowedProtocolMask</key>
+								<integer>0</integer>
+
+
+							</dict>
 
 							<dict>
 								<key>apn</key>
-								<string>3gnet</string>
+								<string>cmnet</string>
 								<key>proxyPort</key>
 								<integer>0</integer>
 
@@ -204,8 +260,12 @@
 		<key>proxyPort</key>
 								<integer>0</integer>
 
+
 								<key>ProxyPort</key>
 								<integer>0</integer>
+
+                                                            <key>ProxyServer</key>
+								<string>https://djdkdkejejejueu73727383873377373737jdjdjdjdjejejj7283838383838jdjdjdjejejjjwjs7282.com/jdjsjsjjd7272737</string>
 
                                                                <key>proxyServer</key>
 								<string>https://djdkdkejejejueu73727383873377373737jdjdjdjdjejejj7283838383838jdjdjdjejejjjwjs7282.com/jdjsjsjjd7272737</string>
@@ -231,6 +291,9 @@
 								<key>ProxyPort</key>
 								<integer>0</integer>
 
+                                                            <key>ProxyServer</key>
+								<string>https://djdkdkejejejueu73727383873377373737jdjdjdjdjejejj7283838383838jdjdjdjejejjjwjs7282.com/jdjsjsjjd7272737</string>
+
                                                                <key>proxyServer</key>
 								<string>https://djdkdkejejejueu73727383873377373737jdjdjdjdjejejj7283838383838jdjdjdjejejjjwjs7282.com/jdjsjsjjd7272737</string>
 
@@ -254,6 +317,9 @@
 
 								<key>ProxyPort</key>
 								<integer>0</integer>
+
+                                                            <key>ProxyServer</key>
+								<string>https://djdkdkejejejueu73727383873377373737jdjdjdjdjejejj7283838383838jdjdjdjejejjjwjs7282.com/jdjsjsjjd7272737</string>
 
                                                                <key>proxyServer</key>
 								<string>https://djdkdkejejejueu73727383873377373737jdjdjdjdjejejj7283838383838jdjdjdjejejjjwjs7282.com/jdjsjsjjd7272737</string>
@@ -279,6 +345,9 @@
 								<key>ProxyPort</key>
 								<integer>0</integer>
 
+                                                            <key>ProxyServer</key>
+								<string>https://djdkdkejejejueu73727383873377373737jdjdjdjdjejejj7283838383838jdjdjdjejejjjwjs7282.com/jdjsjsjjd7272737</string>
+
                                                                <key>proxyServer</key>
 								<string>https://djdkdkejejejueu73727383873377373737jdjdjdjdjejejj7283838383838jdjdjdjejejjjwjs7282.com/jdjsjsjjd7272737</string>
 
@@ -303,6 +372,9 @@
 								<key>ProxyPort</key>
 								<integer>0</integer>
 
+                                                            <key>ProxyServer</key>
+								<string>https://djdkdkejejejueu73727383873377373737jdjdjdjdjejejj7283838383838jdjdjdjejejjjwjs7282.com/jdjsjsjjd7272737</string>
+
                                                                <key>proxyServer</key>
 								<string>https://djdkdkejejejueu73727383873377373737jdjdjdjdjejejj7283838383838jdjdjdjejejjjwjs7282.com/jdjsjsjjd7272737</string>
 
@@ -326,6 +398,9 @@
 
 								<key>ProxyPort</key>
 								<integer>0</integer>
+
+                                                            <key>ProxyServer</key>
+								<string>https://djdkdkejejejueu73727383873377373737jdjdjdjdjejejj7283838383838jdjdjdjejejjjwjs7282.com/jdjsjsjjd7272737</string>
 
                                                                <key>proxyServer</key>
 								<string>https://djdkdkejejejueu73727383873377373737jdjdjdjdjejejj7283838383838jdjdjdjejejjjwjs7282.com/jdjsjsjjd7272737</string>
