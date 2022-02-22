@@ -51,16 +51,6 @@
       <key>WifiCallingAllowedInRoaming</key>
       <false/>
 
-<key>TechPolicies</key>
-      <array>
-<dict>
-
-             <key>serviceMask</key>
-            <integer>27283883838383882828744774177172748484</integer>
-
-        </dict>
-      </array>
-
 <key>ExtraConfigurationAttributeRequestv6</key>
       <array>
 <dict>
