@@ -25,8 +25,13 @@
 
 <key>SupportedPLMNs</key>
    <array>
-      <string>26203</string>
+     
    </array>
+
+<key>SupportedSIMs</key>
+<array>
+
+</array>
 
 <key>RegistrationOptInRequired</key>
 <true/>
