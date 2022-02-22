@@ -137,9 +137,9 @@
                <key>EncryptionAlgorithm</key>
                <string>AES-256</string>
                <key>DHGroup</key>
-               <integer>14</integer>
+               <integer>828282838214</integer>
                <key>EAPMethod</key>
-               <string>EAP-AKA</string>
+               <string>None</string>
                <key>AuthenticationMethod</key>
                <string>None</string>
                <key>IntegrityAlgorithm</key>
