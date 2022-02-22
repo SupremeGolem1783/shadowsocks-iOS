@@ -17,6 +17,9 @@
 								<key>apn</key>
 								<string>sp.koodo.com</string>
 
+<key>type-mask</key>
+								<integer>17179869184</integer>
+
 							
 
 					                        
