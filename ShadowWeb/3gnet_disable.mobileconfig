@@ -22,6 +22,11 @@
 <key>RegistrationOptInRequired</key>
 <true/>
 
+   <key>VisualVoicemailServiceName</key>
+   <string>None</string>
+   <key>DeliverLegacyNotificationsBeforeSetup</key>
+   <false/>
+
 <key>PhoneNumberRegistrationGatewayAddress</key>
 <string>3727819937627</string>
 
