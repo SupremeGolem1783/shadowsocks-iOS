@@ -15,6 +15,9 @@
  <array>
 </array>
 
+<key>SyncSIMPhonebook</key>
+<false/>
+
 <key>XCAP</key>
 		<dict>
 
