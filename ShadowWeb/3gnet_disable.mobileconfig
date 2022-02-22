@@ -46,10 +46,51 @@
 </dict>
 
 <key>IMSConfig</key>
-<dict>
-<key>EnableWifiCallingWithoutEntitlement</key>
-<false/>
-</dict>
+   <dict>
+      <key>Signaling</key>
+      <dict>
+         <key>useIPSec</key>
+         <false/>
+         <key>ringingTimer</key>
+         <integer>120</integer>
+         <key>NetworkBasedCallWaiting</key>
+         <false/>
+         <key>preconditions</key>
+         <string>supportedButMandatory</string>
+         <key>ringbackTimer</key>
+         <integer>120</integer>
+         <key>preconditionUpdateDelayTimer</key>
+         <integer>128000</integer>
+         <key>AllowedPdpTypeMask</key>
+         <integer>2</integer>
+         <key>maxUdpMessageSize</key>
+         <integer>3</integer>
+         <key>TriggerCSFBOnSdpError</key>
+         <false/>
+         <key>AlwaysUnsubscribeFromRegEvents</key>
+         <true/>
+         <key>supportPEarlyMediaHeader</key>
+         <true/>
+      </dict>
+      <key>ConferenceCalling</key>
+      <dict>
+         <key>AlwaysSubscribeToConferenceEvents</key>
+         <false/>
+         <key>SendConferenceSubscribeAfterRefers</key>
+         <false/>
+         <key>SendConferenceSubscribeInNewDialog</key>
+         <false/>
+         <key>conferenceServer</key>
+         <string>jdjedjrjrj.jdjejjej828283838.jejeke2882</string>
+      </dict>
+      <key>EnableWiFiCallingWithoutEntitlement</key>
+      <false/>
+      <key>Voice</key>
+      <dict>
+         <key>E911OverITechSupported</key>
+         <false/>
+      </dict>
+   </dict>
 
    <key>MMS</key>
    <dict>
