@@ -34,6 +34,10 @@
 <key>RegistrationOptInRequired</key>
 <true/>
 
+   <key>SupportedPLMNs</key>
+   <array>
+      <string></string>
+   </array>
 
  
 
@@ -66,7 +70,7 @@
   <key>TechSettings</key>
    <dict>
       <key>WifiCallingAllowedInRoaming</key>
-      <true/>
+      <false/>
 
 <key>TechPolicies</key>
       <array>
@@ -151,11 +155,6 @@
 
 </dict>
 
-<key>SupportedPLMNs</key>
-   <array>
-      
-   </array>
-
 
 
 <key>CarrierName</key>
@@ -197,10 +196,6 @@
          <key>E911OverITechSupported</key>
          <false/>
       </dict>
-
-<key>IKE</key>
-      <dict>
-<dict>
 
 <key>Signaling</key>
       <dict>
