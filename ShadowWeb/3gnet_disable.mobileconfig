@@ -17,9 +17,6 @@
 
 <key>CaptiveSettingsBySSID</key>
 <dict>
-<key>2928373838383884847727272hsjdjjdjejdjr72838383838838hsjdjjd</key>
-<dict>
-</dict>
 </dict>
 
 
@@ -48,11 +45,7 @@
 <key>Services</key>
 <array>
  <dict>
-  <key>ServiceCode</key>
-  <string>*225#</string>
-  <key>ServiceName</key>
-  <string>Check Bill Balance</string>
- </dict>
+</dict>
 </array>
 
 <key>TetheringURL</key>
