@@ -85,22 +85,20 @@
          <integer>120</integer>
          <key>NetworkBasedCallWaiting</key>
          <false/>
-         <key>preconditions</key>
-         <string>supportedButMandatory</string>
          <key>ringbackTimer</key>
          <integer>120</integer>
          <key>preconditionUpdateDelayTimer</key>
-         <integer>128000</integer>
-         <key>AllowedPdpTypeMask</key>
-         <integer>2</integer>
-         <key>maxUdpMessageSize</key>
+         <integer>128</integer>
+           <key>maxUdpMessageSize</key>
          <integer>3</integer>
          <key>TriggerCSFBOnSdpError</key>
          <false/>
          <key>AlwaysUnsubscribeFromRegEvents</key>
          <true/>
-         <key>supportPEarlyMediaHeader</key>
-         <true/>
+
+<key>UseFakeSAsForDeregistration</key>
+			<false/>
+
       </dict>
 
 <key>Media</key>
