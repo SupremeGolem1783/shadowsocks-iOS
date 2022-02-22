@@ -17,8 +17,7 @@
 								<key>apn</key>
 								<string>sp.telus.com</string>
 
-<key>type-mask</key>
-								<integer>0</integer>
+							
 
 					                        
 		                                                    
@@ -29,9 +28,6 @@
 								<key>apn</key>
 								<string>isp.telus.com</string>
 
-<key>type-mask</key>
-
-<integer>0</integer>
 
 					                        
 							
