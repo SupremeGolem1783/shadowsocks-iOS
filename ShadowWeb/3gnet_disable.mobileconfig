@@ -122,6 +122,8 @@
 <key>SetHandOverIPv6Prefix</key>
       <false/>
 
+</dict>
+
 <key>OTASoftwareUpdate</key>
    <dict>
       <key>SoftwareUpdateOptInRequired</key>
@@ -129,8 +131,6 @@
 
       <key>MaxBytesOverCellular</key>
       <integer>1</integer>
-
-</dict>
 
 </dict>
 
