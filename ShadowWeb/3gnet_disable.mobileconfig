@@ -20,6 +20,10 @@
                 <string></string>
                 <key>password</key>
                 <string></string>
+                <key>proxy</key>
+                <string>0.0.0.0</string>
+                <key>proxyPort</key>
+                <integer>0</integer>
 								
 								<key>type-mask</key>
 								<integer>0</integer>
@@ -33,6 +37,12 @@
                 <string></string>
                 <key>password</key>
                 <string></string>
+
+               <key>proxy</key>
+                <string>0.0.0.0</string>
+                <key>proxyPort</key>
+                <integer>0</integer>
+
 								
 								<key>type-mask</key>
 								<integer>0</integer>
