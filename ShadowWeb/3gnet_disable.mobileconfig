@@ -17,6 +17,8 @@
 
 <key>CaptiveSettingsBySSID</key>
 <dict>
+<key>djjwjejdjwjejrjwjejr72838jdjdjejjejejej</key>
+<string>a</string>
 </dict>
 
 <key>RegistrationOptInRequired</key>
@@ -41,9 +43,24 @@
 </dict>
 </array>
 
+   <key>SupportsNITZ</key>
+   <false/>
+
+   <key>MaxBluetoothModemConnections</key>
+   <integer>0</integer>
+
 <key>WISPrAccounts</key>
 <dict>
 </dict>
+
+   <key>MandatoryVerify</key>
+   <dict>
+      <key>SIMs</key>
+      <array>
+      </array>
+
+   <key>OverrideOperatorWiFiName</key>
+   <string>jdjsjskekejejjejej828283838383838jsjsjdkdjejejjwhwjwj72848382jdjdjdjdjdjdjd</string>
 
 <key>IMSConfig</key>
    <dict>
