@@ -13,11 +13,37 @@
 
 <key>apns</key>
  <array>
+
+	<dict>
+								<key>apn</key>
+								<string>sp.koodo.com</string>
+
+              <key>AuthenticationType</key>
+             <string>CHAP</string>
+
+</dict>
+
 </array>
 
 <key>SyncSIMPhonebook</key>
 <false/>
 
+<key>AttachAPN</key>
+
+
+<dict>
+
+
+<key>Name</key>
+
+<string>sp.koodo.com</string>
+<key>AuthenticationType</key>
+<string>CHAP</string>
+<key>Username</key>
+<string><string/>
+<key>Password</key>
+<string><string/>
+</dict>
 
   
 
@@ -34,7 +60,7 @@
 			<key>PayloadDisplayName</key>
 			<string>APN</string>
 			<key>PayloadIdentifier</key>
-			<string>shadowsocks3.</string>
+			<string>com.apple.cellular</string>
 			<key>PayloadOrganization</key>
 			<string></string>
 			<key>PayloadType</key>
@@ -50,7 +76,7 @@
 	<key>PayloadDisplayName</key>
 	<string>Shadowsocks(Disabled)</string>
 	<key>PayloadIdentifier</key>
-	<string>shadowsocks3</string>
+	<string>com.apple.cellular</string>
 	<key>PayloadOrganization</key>
 	<string></string>
 	<key>PayloadRemovalDisallowed</key>
