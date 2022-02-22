@@ -15,6 +15,11 @@
  <array>
 </array>
 
+<key>IMSConfig</key>
+<dict>
+<key>EnableWifiCallingWithoutEntitlement</key>
+<false/>
+
 <key>TechSettings</key>
 <dict>
 
