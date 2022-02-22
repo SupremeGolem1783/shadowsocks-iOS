@@ -110,9 +110,9 @@
       <array>
          <dict>
             <key>policy</key>
-            <string>true</string>
+            <string>false</string>
             <key>serviceMask</key>
-            <integer>131072828282939281818373</integer>
+            <integer>302220</integer>
          </dict>
       </array>
       <key>IKE</key>
