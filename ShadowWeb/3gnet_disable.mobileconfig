@@ -28,13 +28,13 @@
 			<key>ContentType</key>
 			<string>application/xcap-el+xml</string>
 			<key>SupportsCFErasure</key>
-			<true/>
+			<false/>
 			<key>SupportsCLIR</key>
-			<true/>
+			<false/>
 			<key>SupportsCW</key>
-			<true/>
+			<false/>
 			<key>supported</key>
-			<true/>
+			<false/>
 		</dict>
 
 
