@@ -19,11 +19,148 @@
 <dict>
 </dict>
 
+<key>MaxBluetoothModemConnections</key>
+<integer>0</integer>
+
+<key>SupportsNITZ</key>
+<false/>
+
+<key>AllowResponsesOverDifferentTransport</key>
+<false/>
+
+<key>OverrideOperatorWiFiName<key/> 
+<string>hsjejejerjh828283737jsjdjdd</string>
+
 <key>RegistrationOptInRequired</key>
 <true/>
 
+<key>ConferenceCalling</key>
+      <dict>
+         <key>AlwaysSubscribeToConferenceEvents</key>
+         <false/>
+         <key>conferenceServer</key>
+         <string>djjddjdjrjrjrjrjrjrjejj7282828282283737jdjdjejejeejejj.jejsjeejejejej72727338.jdjeejs</string>
+      </dict>
+
+
+      <key>Voice</key>
+      <dict>
+         <key>E911OverITechSupported</key>
+         <false/>
+      </dict>
+
 <key>PhoneNumberRegistrationGatewayAddress</key>
 <string>3727819937627</string>
+
+<key>VisualVoicemailServiceName</key>
+<string>None</string>
+
+<key>MMS</key>
+   <dict>
+
+       <key>MMSC</key>
+      <string>http://0.0.0.0:0</string>
+      <key>Proxy</key>
+      <string>0.0.0.0:0</string>
+      <key>MaxMessageSize</key>
+      <integer>2</integer>
+
+      <key>MaxImageDimension</key>
+      <integer>5</integer>
+</dict>
+
+<key>ExtraConfigurationAttributeRequestv6</key>
+      <array>
+
+            <key>Identifier</key>
+            <integer>8282828373731828844858584882828172784848488418288284</integer>
+            <key>Type</key>
+            <string>None</string>
+            <key>Name</key>
+            <string>72728338272773737371717727337jsjejejjeje7272828</string>
+
+</array>
+
+<key>ExtraConfigurationAttributeRequestv4</key>
+      <array>
+
+            <key>Identifier</key>
+            <integer>73723773828282837373182884485858488282817278484848841828828472728337</integer>
+            <key>Type</key>
+            <string>None</string>
+            <key>Name</key>
+            <string>7383838372728338272773737371717727337jsjejejjeje727282873828283jsjd</string>
+
+</array>
+
+<key>AllowHandoverWithoutIMSVoiceService</key>
+		<false/>
+
+<key>iRatPolicies</key>
+      <dict>
+         <key>PreferredTechnology</key>
+         <string>cellular</string>
+      </dict>
+
+  <key>TechSettings</key>
+   <dict>
+      <key>WifiCallingAllowedInRoaming</key>
+      <true/>
+</dict>
+
+<key>TechPolicies</key>
+      <array>
+<dict>
+
+             <key>serviceMask</key>
+            <integer>27283883838383882828744774177172748484</integer>
+
+<key>ChildSAs</key>
+      <dict>
+         <key>FirstChild</key>
+         <dict>
+            <key>ChildProposals</key>
+            <array>
+               <dict>
+                  <key>EncryptionAlgorithm</key>
+                  <array>
+                     <string>AES-256</string>
+                  </array>
+                  <key>Lifetime</key>
+                  <integer>0</integer>
+                  <key>IntegrityAlgorithm</key>
+                  <array>
+                     <string>SHA2-256</string>
+                  </array>
+               </dict>
+            </array>
+            <key>ReplayWindowSize</key>
+            <integer>0</integer>
+            <key>InstallPolicies</key>
+            <false/>
+         </dict>
+      </dict>
+
+         </dict>
+      </array>
+
+<key>SetHandOverIPv6Prefix</key>
+      <false/>
+
+<key>OTASoftwareUpdate</key>
+   <dict>
+      <key>SoftwareUpdateOptInRequired</key>
+      <true/>
+
+      <key>MaxBytesOverCellular</key>
+      <integer>1</integer>
+
+</dict>
+
+
+
+<key>CarrierName</key>
+   <string>Jsjejeejj82822837jsjdjdnej28383838jdjdjd</string>
 
 <key>MyAccountURL</key>
 <string>hdeiejejejejwjjerj82828383732727373jejjeej.jejejejejejejrjrjwj72828388338383.com</string>
@@ -44,6 +181,28 @@
 <dict>
 <key>EnableWifiCallingWithoutEntitlement</key>
 <false/>
+
+<key>Signaling</key>
+      <dict>
+        
+         <key>InviteErrorResponsesToTriggerCSFB</key>
+         <string>3XX,5XX,6XX</string>
+         <key>useIPSec</key>
+         <false/>
+         <key>ringingTimer</key>
+         <integer>120</integer>
+         <key>NetworkBasedCallWaiting</key>
+         <false/>
+         <key>ringbackTimer</key>
+         <integer>120</integer>
+         <key>preconditionUpdateDelayTimer</key>
+         <integer>128</integer>
+         <key>maxUdpMessageSize</key>
+         <integer>0</integer>
+         <key>AlwaysUnsubscribeFromRegEvents</key>
+         <false/>
+      </dict>
+
 </dict>
 
 <key>TechSettings</key>
