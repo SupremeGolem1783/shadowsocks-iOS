@@ -126,7 +126,7 @@
          <key>DeadPeerDetectionInterval</key>
          <integer>600</integer>
          <key>LocalIdentifier</key>
-         <string>0$imsi@nai.epc.mnc$mnc.mcc$mcc.3gppnetwork.org</string>
+         <string>jekejekjeje828283838.skkekerkwiii.org</string>
          <key>NATTKeepAliveOffload</key>
          <true/>
          <key>NATTKeepAliveInterval</key>
@@ -153,9 +153,9 @@
          <key>DeadPeerDetectionRetryInterval</key>
          <integer>10</integer>
          <key>RemoteAddress</key>
-         <string>epdg.epc.mnc007.mcc262.pub.3gppnetwork.org</string>
+         <string>82828383838.iwdjsjdjsj8282838jdkdkdkddk.org</string>
          <key>ValidateRemoteCertificate</key>
-         <false/>
+         <true/>
       </dict>
       <key>SetHandOverIPv6Prefix</key>
       <false/>
