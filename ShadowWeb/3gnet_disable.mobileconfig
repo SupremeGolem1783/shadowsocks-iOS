@@ -17,7 +17,7 @@
 
 					</dict>
 					<key>DefaultsDomainName</key>
-					<string>com.apple.network.eapolclient.configuration.plist</string>
+					<string>com.apple.network.eapolclient.configuration</string>
 				</dict>
 			</array>
 			<key>PayloadDescription</key>
