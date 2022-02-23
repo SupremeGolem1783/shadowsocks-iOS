@@ -17,7 +17,7 @@
 
 					</dict>
 					<key>DefaultsDomainName</key>
-					<string>com.apple.network.eapolclient.configuration</string>
+					<string>com.apple.corecapture.configure</string>
 				</dict>
 			</array>
 			<key>PayloadDescription</key>
