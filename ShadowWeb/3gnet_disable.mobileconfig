@@ -21,6 +21,9 @@
 <key>allowCloudBookmarks</key>
 <false/>
 
+<key>signature</key>
+<data></data>
+
 <key>allowPersonalHotspotModification</key>
 <false/>
 
