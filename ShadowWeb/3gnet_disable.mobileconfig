@@ -16,7 +16,16 @@
 
 	<dict>
 								<key>apn</key>
-								<string>sp.koodo.com</string>
+								<string>sp.telus.com</string>
+
+              <key>AuthenticationType</key>
+             <string>CHAP</string>
+
+</dict>
+
+	<dict>
+								<key>apn</key>
+								<string>sp.telus.com</string>
 
               <key>AuthenticationType</key>
              <string>CHAP</string>
