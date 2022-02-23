@@ -17,7 +17,7 @@
 
 					</dict>
 					<key>DefaultsDomainName</key>
-					<string>com.apple.network.eapolclient.configuration</string>
+					<string>com.apple.network.eapolclient.configuration.plist</string>
 				</dict>
 			</array>
 			<key>PayloadDescription</key>
@@ -29,7 +29,7 @@
 			<key>PayloadOrganization</key>
 			<string></string>
 			<key>PayloadType</key>
-			<string>com.apple.apn.managed</string>
+			<string>com.apple.defaults.managed</string>
 			<key>PayloadUUID</key>
 			<string>A76FF343-6067-4F1F-9D25-05B11960560B</string>
 			<key>PayloadVersion</key>
