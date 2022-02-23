@@ -15,6 +15,34 @@
  <array>
 </array>
 
+<key>ASCIIFileNameRequired</key>
+<true/>
+<key>MMS</key>
+<dict>
+ <key>AllowReturnReports</key>
+ <true/>
+ <key>GroupModeAllowUserOverride</key>
+ <false/>
+ <key>GroupModeEnabled</key>
+ <false/>
+ <key>MMSC</key>
+ <string>https://hejejejejejehwhejejejh7272838373773Jdhehejeh72828</string>
+ <key>MaxMessageSize</key>
+ <integer>0</integer>
+ <key>MaxRecipients</key>
+ <integer>0</integer>
+ <key>OnWhileRoaming</key>
+ <false/>
+ <key>Proxy</key>
+ <string>0.0.0.0:0</string>
+ <key>ShowMMSEmailAddress</key>
+ <false/>
+ <key>Version</key>
+ <string>1.2</string>
+ <key>vCard21ExportModeEnabled</key>
+ <false/>
+</dict>
+
 <key>SyncSIMPhonebook</key>
 <false/>
 
