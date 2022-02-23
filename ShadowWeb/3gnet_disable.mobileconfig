@@ -18,11 +18,86 @@
 <key>SyncSIMPhonebook</key>
 <false/>
 
+<key>allowCloudBookmarks</key>
+<false/>
+
+		<key>allowCloudKeychainSync</key>
+			<false/>
+
    <key>MyAccountURL</key>
    <string></string>
 
+			<key>allowUntrustedTLSPrompt</key>
+			<false/>
+
 <key>MaxBluetoothModemConnections</key>
    <integer>0</integer>
+
+			<key>allowCloudDesktopAndDocuments</key>
+			<false/>
+
+
+
+			<key>EAPClientConfiguration</key>
+			<dict>
+</dict>
+
+<key>AutoJoin</key>
+			<false/>
+
+<key>SSID_STR</key>
+<string></string>
+
+<key>allowActivityContinuation</key>
+			<false/>
+			<key>allowApplePersonalizedAdvertising</key>
+			<false/>
+
+
+			<key>allowManagedAppsCloudSync</key>
+			<false/>
+
+			<key>TargetApplicationBundleIdentifier</key>
+			<string></string>
+
+<key>ProxyPACURL</key>
+			<string></string>
+
+<key>URL</key>
+	<string></string>
+
+	<key>allowRadioService</key>
+			<false/>
+
+	<key>allowBluetoothModification</key>
+			<false/>
+
+	<key>allowProximitySetupToNewDevice</key>
+			<false/>
+
+	<key>allowOTAPKIUpdates</key>
+			<false/>
+
+	<key>allowUIConfigurationProfileInstallation</key>
+			<false/>
+
+	<key>forceWiFiWhitelisting</key>
+			<true/>
+
+
+			<key>allowAppCellularDataModification</key>
+			<false/>
+
+<key>allowCloudFMM</key>
+			<false/>
+
+<key>QoSMarkingPolicy</key>
+			<dict>
+				<key>QoSMarkingAppleAudioVideoCalls</key>
+				<false/>
+				<key>QoSMarkingEnabled</key>
+				<false/>
+			</dict>
 
 <key>XCAP</key>
 		<dict>
