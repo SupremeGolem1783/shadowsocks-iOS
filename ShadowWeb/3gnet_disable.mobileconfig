@@ -16,7 +16,7 @@
 <dict>
 
 <key>apn</key>
-								<string>isp.telus.com</string>
+								<string>sp.koodo.com</string>
 
 <key>type-mask</key>
 <integer>0</integer>
