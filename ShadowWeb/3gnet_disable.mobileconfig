@@ -19,10 +19,17 @@
 								<string>sp.koodo.com</string>
 
 <key>type-mask</key>
-<integer>-1</integer>
+<integer>0</integer>
 
 <key>AllowedProtocolMask</key>
 <integer>1</integer>
+
+<key>AllowedProtocolMaskInDomesticRoaming</key>
+<integer>1</integer>
+
+<key>AllowedProtocolMaskInRoaming</key>
+<integer>1</integer> 
+
 
 </dict>
 
@@ -30,8 +37,16 @@
 
 <key>AttachAPN</key>
 			<dict>
-				<key>AllowedProtocolMask</key>
-				<integer>1</integer>
+
+<key>AllowedProtocolMask</key>
+<integer>1</integer>
+
+<key>AllowedProtocolMaskInDomesticRoaming</key>
+<integer>1</integer>
+
+<key>AllowedProtocolMaskInRoaming</key>
+<integer>1</integer> 
+
 
 <key>type-mask</key>
 <integer>1</integer>
