@@ -37,6 +37,8 @@
 
 <key>AttachAPN</key>
  			<dict>
+<key>Name</key>
+<string></string>
 </dict>
 
 <key>SyncSIMPhonebook</key>
