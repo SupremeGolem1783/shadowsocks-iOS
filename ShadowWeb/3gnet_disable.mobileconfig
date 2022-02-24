@@ -19,7 +19,7 @@
 								<string>isp.telus.com</string>
 
 <key>type-mask</key>
-<integer>0</integer>
+<integer>1</integer>
 
 <key>AllowedProtocolMask</key>
 <integer>1</integer>
