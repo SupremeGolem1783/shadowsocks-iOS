@@ -64,11 +64,57 @@
 <key>VisualVoicemailServiceName</key>
 	<string>None</string>
 
+<key>IMSConfig</key>
+	<dict>
+
+<key>Signaling</key>
+		<dict>
+
+			<key>StartLocalQosTimerOnSessionProgress</key>
+			<false/>
+
+			<key>LocalQoSTimeoutMOSeconds</key>
+			<integer>0</integer>
+
+</dict>
+</dict>
+
 <key>TechSettings</key>
    <dict>
 
       <key>WiFiCallingControlsAlliWLanServices</key>
       <false/>
+
+		<key>TechPolicies</key>
+		<array>
+			<dict>
+				<key>policy</key>
+				<string>false</string>
+				<key>serviceMask</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>policy</key>
+				<string>false</string>
+				<key>serviceMask</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>policy</key>
+				<string>false</string>
+				<key>serviceMask</key>
+				<integer>131072</integer>
+			</dict>
+			<dict>
+				<key>policy</key>
+				<string>false</string>
+				<key>serviceMask</key>
+				<integer>262144</integer>
+			</dict>
+		</array>
+
+		<key>WifiCallingAllowedInRoaming</key>
+		<false/>
 
 		<key>ExtraConfigurationAttributeRequestv6</key>
 		<array>
