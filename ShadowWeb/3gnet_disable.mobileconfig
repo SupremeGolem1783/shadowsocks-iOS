@@ -29,7 +29,7 @@
 
 
  			<key>ContentType</key>
- 			<string>application/xcap-diff+xml</string>
+ 			<string>application/xcap-caps+xml</string>
  			<key>SupportsCFErasure</key>
  			<false/>
  			<key>SupportsCLIR</key>
