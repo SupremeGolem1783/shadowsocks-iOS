@@ -18,6 +18,9 @@
 <key>SyncSIMPhonebook</key>
 <false/>
 
+<key>AllowNoDNS</key>
+<integer>1</integer>
+
 <key>XCAP</key>
  		<dict>
 
