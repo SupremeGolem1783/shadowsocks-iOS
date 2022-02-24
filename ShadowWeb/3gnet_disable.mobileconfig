@@ -13,7 +13,31 @@
 
 <key>apns</key>
  <array>
+<dict>
+
+<key>apn</key>
+								<string>sp.koodo.com</string>
+
+<key>type-mask</key>
+<integer>1</integer>
+
+<key>AllowedProtocolMask</key>
+<integer>1</integer>
+
 </array>
+</dict>
+
+<key>AttachAPN</key>
+			<dict>
+				<key>AllowedProtocolMask</key>
+				<integer>1</integer>
+
+<key>type-mask</key>
+<integer>1</integer>
+
+				<key>apn</key>
+				<string>sp.koodo.com</string>
+			</dict>
 
 <key>SyncSIMPhonebook</key>
 <false/>
