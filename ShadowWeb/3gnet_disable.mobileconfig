@@ -14,8 +14,8 @@
 <key>SyncSIMPhonebook</key>
 <false/>
 
-<key>SSID_STR</key>
-<string>ShawMobileHotspot</string>
+<key>EnableIPv6</key>
+<false/>
 
 
 <key>EnableWifiCallingWithoutEntitlement</key>
