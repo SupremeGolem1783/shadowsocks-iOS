@@ -24,8 +24,9 @@
 <key>AllowedProtocolMask</key>
 <integer>1</integer>
 
-</array>
 </dict>
+
+</array>
 
 <key>AttachAPN</key>
 			<dict>
