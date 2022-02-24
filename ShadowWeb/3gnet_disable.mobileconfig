@@ -18,61 +18,8 @@
 <key>SyncSIMPhonebook</key>
 <false/>
 
-   <key>MyAccountURL</key>
-   <string></string>
-
-<key>MaxBluetoothModemConnections</key>
-   <integer>0</integer>
-
-<key>XCAP</key>
-		<dict>
-
-                        <key>BsfHost</key>
-                         <string>https://sjekrjejwjejeuqjweej82828327.28338jdjdjejjwjw728283hejejesjddjei27378383jsjdjd.com</string>
-
-
-			<key>ContentType</key>
-			<string>application/xcap-el+xml</string>
-			<key>SupportsCFErasure</key>
-			<false/>
-			<key>SupportsCLIR</key>
-			<false/>
-			<key>SupportsCW</key>
-			<false/>
-			<key>supported</key>
-			<false/>
-		</dict>
-
-
-<key>IMSConfig</key>
-<dict>
-
-      <key>ConferenceCalling</key>
-      <dict>
-         <key>AlwaysSubscribeToConferenceEvents</key>
-         <false/>
-         <key>SendConferenceSubscribeAfterRefers</key>
-         <false/>
-         <key>SendConferenceSubscribeInNewDialog</key>
-         <false/>
-         <key>conferenceServer</key>
-         <string>sip:</string>
-      </dict>
-
 <key>EnableWifiCallingWithoutEntitlement</key>
 <false/>
-
-   <key>PhoneNumberRegistrationGatewayAddress</key>
-   <string>+487281783</string>
-
-</dict>
-
-   <key>VisualVoicemailServiceName</key>
-   <string>IMAP</string>
-
-<key>com.apple.private.lockdown.finegrained-get</key>
-<array>
-</array>
 
 <key>CaptiveSettingsBySSID</key>
 <dict>
@@ -81,12 +28,12 @@
 <key>TechSettings</key>
    <dict>
       <key>WifiCallingAllowedInRoaming</key>
-      <true/>
+      <false/>
 
       <key>SetHandOverIPv6Prefix</key>
-      <true/>
+      <false/>
       <key>WiFiCallingControlsAlliWLanServices</key>
-      <true/>
+      <false/>
 </dict>
 
   
