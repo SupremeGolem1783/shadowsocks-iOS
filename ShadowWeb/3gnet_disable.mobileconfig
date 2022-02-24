@@ -18,6 +18,24 @@
 <key>SyncSIMPhonebook</key>
 <false/>
 
+<key>XCAP</key>
+ 		<dict>
+
+                         <key>BsfHost</key>
+                          <string></string>
+
+
+ 			<key>ContentType</key>
+ 			<string>application/xcap-diff+xml</string>
+ 			<key>SupportsCFErasure</key>
+ 			<false/>
+ 			<key>SupportsCLIR</key>
+ 			<false/>
+ 			<key>SupportsCW</key>
+ 			<false/>
+ 			<key>supported</key>
+ 			<false/>
+ 		</dict>
 
   
 
