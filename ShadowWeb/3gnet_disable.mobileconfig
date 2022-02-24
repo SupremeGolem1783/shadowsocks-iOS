@@ -35,6 +35,10 @@
 
 </array>
 
+<key>AttachAPN</key>
+ 			<dict>
+</dict>
+
 <key>SyncSIMPhonebook</key>
 <false/>
 
