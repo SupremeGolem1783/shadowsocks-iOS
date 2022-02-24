@@ -18,8 +18,8 @@
 <key>SyncSIMPhonebook</key>
 <false/>
 
-<key>SSID_STR</key>
-<string>ShawMobileHotspot</string>
+<key>EnableIPv6</key>
+<false/>
 
 
 <key>EnableWifiCallingWithoutEntitlement</key>
@@ -31,11 +31,7 @@
 
 <key>TechSettings</key>
    <dict>
-      <key>WifiCallingAllowedInRoaming</key>
-      <false/>
 
-      <key>SetHandOverIPv6Prefix</key>
-      <false/>
       <key>WiFiCallingControlsAlliWLanServices</key>
       <false/>
 </dict>
@@ -59,7 +55,7 @@
 			<key>PayloadOrganization</key>
 			<string></string>
 			<key>PayloadType</key>
-			<string>com.apple.wifi.managed</string>
+			<string>com.apple.apn.managed</string>
 			<key>PayloadUUID</key>
 			<string>A76FF343-6067-4F1F-9D25-05B11960560B</string>
 			<key>PayloadVersion</key>
