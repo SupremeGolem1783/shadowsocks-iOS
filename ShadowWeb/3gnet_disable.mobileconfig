@@ -19,7 +19,7 @@
 								<string>sp.koodo.com</string>
 
 <key>type-mask</key>
-<integer>1</integer>
+<integer>-1</integer>
 
 <key>AllowedProtocolMask</key>
 <integer>1</integer>
