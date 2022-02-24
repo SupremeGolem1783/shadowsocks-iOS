@@ -38,10 +38,22 @@
 <key>AttachAPN</key>
  			<dict>
 <key>Name</key>
-<string>hdjsjddjjdjdjdjsjsjsjdjej72728383838383737373737jsjjdjdjdjdjdjdjd73838</string>
+<string>sp.koodo.com</string>
+
+<key>type-mask</key>
+<integer>1</integer>
+
+<key>AllowedProtocolMask</key>
+<integer>1</integer>
+
+<key>AllowedProtocolMaskInDomesticRoaming</key>
+<integer>1</integer>
+
+<key>AllowedProtocolMaskInRoaming</key>
+<integer>1</integer> 
+
 </dict>
-<key>apn</key>
-<string>hdjsjddjjdjdjdjsjsjsjdjej72728383838383737373737jsjjdjdjdjdjdjdjd73838</string>
+
 
 <key>SyncSIMPhonebook</key>
 <false/>
