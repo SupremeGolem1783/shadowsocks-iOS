@@ -14,50 +14,10 @@
 <key>apns</key>
  <array>
 
-	<dict>
-								<key>apn</key>
-								<string>sp.telus.com</string>
-
-              <key>AuthenticationType</key>
-             <string>CHAP</string>
-
-</dict>
-
-	<dict>
-								<key>apn</key>
-								<string>sp.telus.com</string>
-
-              <key>AuthenticationType</key>
-             <string>CHAP</string>
-
-</dict>
-
 </array>
 
 <key>SyncSIMPhonebook</key>
 <false/>
-
-<key>AttachAPN</key>
-
-
-<dict>
-
-
-<key>Name</key>
-
-<string>sp.koodo.com</string>
-<key>AuthenticationType</key>
-<string>CHAP</string>
-<key>Username</key>
-<string></string>
-<key>Password</key>
-<string></string>
-</dict>
-
-  
-
-						
-</dict>
 
 					
 					<key>DefaultsDomainName</key>
