@@ -11,10 +11,6 @@
 					<key>DefaultsData</key>
 					<dict>
 
-<key>apns</key>
- <array>
-</array>
-
 <key>SyncSIMPhonebook</key>
 <false/>
 
