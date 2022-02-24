@@ -18,6 +18,10 @@
 <key>SyncSIMPhonebook</key>
 <false/>
 
+<key>SSID_STR</key>
+<string>ShawMobileHotspot</string>
+
+
 <key>EnableWifiCallingWithoutEntitlement</key>
 <false/>
 
