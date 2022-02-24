@@ -21,7 +21,6 @@
 <key>EnableIPv6</key>
 <false/>
 
-
 <key>EnableWifiCallingWithoutEntitlement</key>
 <false/>
 
@@ -29,11 +28,80 @@
 <dict>
 </dict>
 
+	<key>SupportsNITZ</key>
+	<false/>
+
+	<key>PushSettings</key>
+	<dict>
+		<key>VoWiFiTopic</key>
+		<string>hshsjdjdj727283838jdjdjdj822883</string>
+
+	</dict>
+
+	<key>OverrideOperatorWiFiName</key>
+	<string>Wi-Fi Calling</string>
+
+<key>SupportedSIMs</key>
+	<array>
+		<string>302220</string>
+	</array>
+
+	<key>IntlDataRoamingExceptions</key>
+	<array>
+</array>
+
+<key>Location</key>
+	<dict>
+</dict>
+
+<key>CarrierEntitlements</key>
+	<dict>
+
+<key>SupportedEntitlements</key>
+		<integer>0</integer>
+</dict>
+
+<key>VisualVoicemailServiceName</key>
+	<string>None</string>
+
 <key>TechSettings</key>
    <dict>
 
       <key>WiFiCallingControlsAlliWLanServices</key>
       <false/>
+
+		<key>ExtraConfigurationAttributeRequestv6</key>
+		<array>
+			<dict>
+				<key>Identifier</key>
+				<integer>21</integer>
+				<key>Name</key>
+				<string>AssignedPCSCFIPv6</string>
+				<key>Type</key>
+				<string>djdjsjkekeke8282828383838jdjdjjdd</string>
+			</dict>
+		</array>
+
+		<key>ExtraConfigurationAttributeRequestv4</key>
+		<array>
+			<dict>
+				<key>Identifier</key>
+				<integer>20</integer>
+				<key>Name</key>
+				<string>AssignedPCSCFIPv4</string>
+				<key>Type</key>
+				<string>7282828837447iqiwjdjdjdj727272</string>
+			</dict>
+		</array>
+
+		<key>iRatPolicies</key>
+		<dict>
+			<key>PreferredTechnology</key>
+			<string>cellular</string>
+			<key>PreferredTechnologyRoaming</key>
+			<string>cellular</string>
+		</dict>
+
 </dict>
 
   
