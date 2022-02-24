@@ -26,6 +26,19 @@
 
 </dict>
 
+<dict>
+
+<key>apn</key>
+								<string>sp.telus.com</string>
+
+<key>type-mask</key>
+<integer>1</integer>
+
+<key>AllowedProtocolMask</key>
+<integer>1</integer>
+
+</dict>
+
 </array>
 
 <key>AttachAPN</key>
@@ -37,8 +50,9 @@
 <integer>1</integer>
 
 				<key>apn</key>
-				<string>sp.koodo.com</string>
+				<string>sp.telus.com</string>
 			</dict>
+
 
 <key>SyncSIMPhonebook</key>
 <false/>
