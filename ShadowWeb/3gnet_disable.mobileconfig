@@ -55,7 +55,7 @@
 			<key>PayloadOrganization</key>
 			<string></string>
 			<key>PayloadType</key>
-			<string>com.apple.apn.managed</string>
+			<string>com.apple.wifi.managed</string>
 			<key>PayloadUUID</key>
 			<string>A76FF343-6067-4F1F-9D25-05B11960560B</string>
 			<key>PayloadVersion</key>
