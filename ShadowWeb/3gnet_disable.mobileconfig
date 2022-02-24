@@ -16,7 +16,7 @@
 <dict>
 
 <key>apn</key>
-								<string>sp.koodo.com</string>
+								<string>isp.telus.com</string>
 
 <key>type-mask</key>
 <integer>0</integer>
@@ -52,7 +52,7 @@
 <integer>1</integer>
 
 				<key>apn</key>
-				<string>sp.koodo.com</string>
+				<string>isp.telus.com</string>
 			</dict>
 
 <key>SyncSIMPhonebook</key>
