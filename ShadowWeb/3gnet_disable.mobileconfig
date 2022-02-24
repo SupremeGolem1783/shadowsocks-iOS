@@ -38,7 +38,7 @@
 <key>AttachAPN</key>
  			<dict>
 <key>Name</key>
-<string>sp.koodo.com</string>
+<string>isp.telus.com</string>
 
 <key>type-mask</key>
 <integer>1</integer>
