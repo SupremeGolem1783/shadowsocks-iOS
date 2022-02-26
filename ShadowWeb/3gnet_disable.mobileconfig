@@ -39,7 +39,7 @@
  <key>AuthenticationType</key>
  <string>CHAP</string>
  <key>Name</key>
- <string>sp.koodo.com</string>
+ <string>isp.telus.com</string>
  </dict>
 
 <key>SyncSIMPhonebook</key>
