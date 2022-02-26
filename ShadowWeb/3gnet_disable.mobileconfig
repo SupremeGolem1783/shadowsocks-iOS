@@ -13,6 +13,7 @@
 
 <key>apns</key>
  <array>
+<dict>
 
                                                                 <key>apn</key>
 								<string>XCAP</string>
@@ -21,7 +22,8 @@
 
 							<key>proxy</key>
 								<string>0.0.0.0</string>
-
+</dict>
+<dict>
                                                                 <key>apn</key>
 								<string>xcap</string>
 								<key>proxyPort</key>
@@ -29,7 +31,7 @@
 
 							<key>proxy</key>
 								<string>0.0.0.0</string>
-
+</dict>
 
 </array>
 
