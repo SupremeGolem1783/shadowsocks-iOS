@@ -31,6 +31,39 @@
 							<key>proxy</key>
 								<string>0.0.0.0</string>
 </dict>
+
+<dict>
+
+                                                                <key>apn</key>
+								<string>xcap.freedommobile.ca</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+							<key>proxy</key>
+								<string>0.0.0.0</string>
+</dict> 
+<dict>
+
+                                                                <key>apn</key>
+								<string>volte.mobile.frdm.ca</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+							<key>proxy</key>
+								<string>0.0.0.0</string>
+</dict>
+
+<dict>
+
+                                                                <key>apn</key>
+								<string>xcap.shaw.ca</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+							<key>proxy</key>
+								<string>0.0.0.0</string>
+</dict>
+
 <dict>
                                                                 <key>apn</key>
 								<string>xcap</string>
@@ -38,6 +71,161 @@
 								<integer>0</integer>
 
 							<key>proxy</key>
+								<string>0.0.0.0</string>
+</dict>
+
+<dict>
+                                                                <key>apn</key>
+								<string>xcap.ims.mnc490.mcc302.pub.3gppnetwork.org</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+							<key>proxy</key>
+								<string>0.0.0.0</string>
+</dict>
+
+<dict>
+                                                                <key>apn</key>
+								<string>xcap.ims.mnc491.mcc302.pub.3gppnetwork.org</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+							        <key>proxy</key>
+								<string>0.0.0.0</string>
+</dict>
+
+<dict>
+                                                                <key>apn</key>
+								<string>xcap.ims.mnc740.mcc302.pub.3gppnetwork.org</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+							        <key>proxy</key>
+								<string>0.0.0.0</string>
+</dict>
+
+<dict>
+                                                                <key>apn</key>
+								<string>xcap.ims.mnc220.mcc302.pub.3gppnetwork.org</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+							        <key>proxy</key>
+								<string>0.0.0.0</string>
+</dict>
+
+<dict>
+                                                                <key>apn</key>
+								<string>xcap.ims.mnc222.mcc302.pub.3gppnetwork.org</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+							        <key>proxy</key>
+								<string>0.0.0.0</string>
+</dict>
+
+<dict>
+                                                                <key>apn</key>
+								<string>VoLTE</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+							        <key>proxy</key>
+								<string>0.0.0.0</string>
+</dict>
+
+							<dict>
+								<key>apn</key>
+								<string>3gnet</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+<key>proxy</key>
+								<string>0.0.0.0</string>
+
+							</dict>
+
+							<dict>
+								<key>apn</key>
+								<string>3gwap</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+<key>proxy</key>
+								<string>0.0.0.0</string>
+
+							</dict>
+<dict>
+								<key>apn</key>
+								<string>internet.freedommobile.ca</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+<key>proxy</key>
+								<string>0.0.0.0</string>
+
+							</dict>
+
+<dict>
+								<key>apn</key>
+								<string>mms.freedommobile.ca</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+<key>proxy</key>
+								<string>0.0.0.0</string>
+
+							</dict>
+	<dict>
+								<key>apn</key>
+								<string>wsp.shaw.ca</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+<key>proxy</key>
+								<string>0.0.0.0</string>
+
+							</dict>
+	<dict>
+								<key>apn</key>
+								<string>mms.shaw.ca</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+<key>proxy</key>
+								<string>0.0.0.0</string>
+
+							</dict>
+
+	<dict>
+								<key>apn</key>
+								<string>mms</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+<key>proxy</key>
+								<string>0.0.0.0</string>
+
+							</dict>
+
+	<dict>
+								<key>apn</key>
+								<string>mms</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+<key>proxy</key>
+								<string>0.0.0.0</string>
+
+							</dict>
+
+<dict>
+                                                                <key>apn</key>
+								<string>Internet</string>
+								<key>proxyPort</key>
+								<integer>0</integer>
+
+							        <key>proxy</key>
 								<string>0.0.0.0</string>
 </dict>
 
