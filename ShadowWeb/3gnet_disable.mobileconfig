@@ -237,21 +237,6 @@
 </array>
 
 
-<key>AttachAPN</key>
- <dict>
- <key>AuthenticationType</key>
- <string>CHAP</string>
- <key>Name</key>
- <string>isp.telus.com</string>
-
-<key>Username</key>
-<string>Jajsjdjdjdjdjjd728383737727jdjjdjsjsjssj</string>
-
-<key>Password</key>
-<string>jdkskskskejeej7288283847172838nsnjsjsjsjsd</string>
-
- </dict>
-
 <key>SyncSIMPhonebook</key>
 <false/>
 
