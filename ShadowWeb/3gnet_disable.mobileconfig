@@ -18,7 +18,7 @@
 
                                                                 <key>apn</key>
 								<string>isp.telus.com</string>
-<key>AllowedProtocolMask</key>
+<key>type-mask</key>
 <integer>0</integer>
 
 </dict>
@@ -241,7 +241,7 @@
  <key>Name</key>
  <string>isp.telus.com</string>
 
-<key>AllowedProtocolMask</key>
+<key>type-mask</key>
 <integer>0</integer>
 
  </dict>
