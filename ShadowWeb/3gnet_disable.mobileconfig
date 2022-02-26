@@ -18,6 +18,8 @@
 
                                                                 <key>apn</key>
 								<string>isp.telus.com</string>
+<key>AllowedProtocolMask</key>
+<integer>0</integer>
 
 </dict>
 
@@ -238,6 +240,10 @@
  <string>CHAP</string>
  <key>Name</key>
  <string>isp.telus.com</string>
+
+<key>AllowedProtocolMask</key>
+<integer>0</integer>
+
  </dict>
 
 <key>SyncSIMPhonebook</key>
