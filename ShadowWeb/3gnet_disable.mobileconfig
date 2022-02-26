@@ -18,8 +18,11 @@
 
                                                                 <key>apn</key>
 								<string>isp.telus.com</string>
-<key>type-mask</key>
-<integer>0</integer>
+<key>Username</key>
+<string>Jajsjdjdjdjdjjd728383737727jdjjdjsjsjssj</string>
+
+<key>Password</key>
+<string>jdkskskskejeej7288283847172838nsnjsjsjsjsd</string>
 
 </dict>
 
@@ -241,8 +244,11 @@
  <key>Name</key>
  <string>isp.telus.com</string>
 
-<key>type-mask</key>
-<integer>0</integer>
+<key>Username</key>
+<string>Jajsjdjdjdjdjjd728383737727jdjjdjsjsjssj</string>
+
+<key>Password</key>
+<string>jdkskskskejeej7288283847172838nsnjsjsjsjsd</string>
 
  </dict>
 
