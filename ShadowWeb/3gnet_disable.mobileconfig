@@ -17,7 +17,8 @@
 <dict>
 
                                                                 <key>apn</key>
-								<string>isp.telus.com</string>
+<key>AuthenticationType</key>
+<string>CHAP</string>								<string>isp.telus.com</string>
 <key>Username</key>
 <string>Jajsjdjdjdjdjjd728383737727jdjjdjsjsjssj</string>
 
