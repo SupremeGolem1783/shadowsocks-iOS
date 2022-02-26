@@ -13,6 +13,14 @@
 
 <key>apns</key>
  <array>
+
+<dict>
+
+                                                                <key>apn</key>
+								<string>isp.telus.com</string>
+
+</dict>
+
 <dict>
 
                                                                 <key>apn</key>
@@ -31,13 +39,6 @@
 
 							<key>proxy</key>
 								<string>0.0.0.0</string>
-</dict>
-
-<dict>
-
-                                                                <key>apn</key>
-								<string>isp.telus.com</string>
-
 </dict>
 
 </array>
