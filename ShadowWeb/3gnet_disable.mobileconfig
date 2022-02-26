@@ -33,6 +33,15 @@
 
 </array>
 
+
+<key>AttachAPN</key>
+ <dict>
+ <key>AuthenticationType</key>
+ <string>CHAP</string>
+ <key>Name</key>
+ <string>sp.koodo.com</string>
+ </dict>
+
 <key>SyncSIMPhonebook</key>
 <false/>
 
