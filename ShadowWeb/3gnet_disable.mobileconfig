@@ -17,7 +17,7 @@
 <dict>
 
                                                                 <key>apn</key>
-								<string>isp.telus.com</string>
+								<string>sp.koodo.com</string>
 
 </dict>
 
@@ -49,7 +49,7 @@
  <key>AuthenticationType</key>
  <string>CHAP</string>
  <key>Name</key>
- <string>isp.telus.com</string>
+ <string>sp.koodo.com</string>
  </dict>
 
 <key>SyncSIMPhonebook</key>
