@@ -24,12 +24,6 @@
 
 <key>Services</key>
 <array>
- <dict>
-  <key>ServiceCode</key>
-  <string>##25327#</string>
-  <key>ServiceName</key>
-  <string>Clear</string>
- </dict>
 </array>
 
 <key>ShowServiceCodes</key>
