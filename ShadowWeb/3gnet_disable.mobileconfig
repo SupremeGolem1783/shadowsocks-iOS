@@ -25,6 +25,8 @@
 <key>proxy</key>
 <string>0.0.0.0</string>
 
+</dict>
+
 <dict>
 <key>apn</key>
 <string>xcap</string>
