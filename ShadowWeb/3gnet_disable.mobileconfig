@@ -19,35 +19,43 @@
 								<string>sp.telus.com</string>
 </dict>
 
-<dict>
-
-                                                                <key>apn</key>
-								<string>supl.telusmobility.com</string>
-<key>proxy</key>
-<string>0.0.0.0</string>
-<key>proxyPort</key>
-<string>0</string>
-<key>proxyServer</key>
-<string>jsjsjsjsjsjsjsjsjsjej.jsejjejejwjejdjejjwidj81828383883jajsjdjjwjdjfjwj71827372728Hahaha.com</string>
-</dict>
-
 </array>
 
 <key>SyncSIMPhonebook</key>
 <false/>
 
+<key>WiFiCallingControlsAlliWLanServices</key>
+<false/>
+
 <key>AllowNoDNS</key>
 <integer>1</integer>
+
+<key>AllowHandoverWithoutIMSVoiceService</key>
+		<false/>
 
 <key>XCAP</key>
  		<dict>
 
                          <key>BsfHost</key>
-                          <string></string>
 
+			<string>bsf.ims.mnc000.mcc000.pub.3gppnetwork.org</string>
+			<key>BsfPort</key>
+			<integer>0</integer>
+
+			<key>NafHost</key>
+			<string>xcap.ims.mnc000.mcc000.pub.3gppnetwork.org</string>
+			<key>NafPort</key>
+			<integer>0</integer>
+
+
+			<key>imsRegistrationDependency</key>
+			<true/>
+
+<key>DisableOnNetworkError</key>
+			<true/>
 
  			<key>ContentType</key>
- 			<string>application/xcap-caps+xml</string>
+ 			<string>application/vnd.etsi.simservs+xml</string>
  			<key>SupportsCFErasure</key>
  			<false/>
  			<key>SupportsCLIR</key>
