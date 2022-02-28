@@ -31,8 +31,7 @@
 <key>XCAP</key>
  		<dict>
 
-                         <key>BsfHost</key>
-
+                        <key>BsfHost</key>
 			<string>bsf.ims.mnc000.mcc000.pub.3gppnetwork.org</string>
 			<key>BsfPort</key>
 			<integer>0</integer>
@@ -41,6 +40,16 @@
 			<string>xcap.ims.mnc000.mcc000.pub.3gppnetwork.org</string>
 			<key>NafPort</key>
 			<integer>0</integer>
+
+			<key>SupportsCFErasure</key>
+ 			<false/>
+ 			<key>SupportsCLIR</key>
+ 			<false/>
+ 			<key>SupportsCW</key>
+ 			<false/>
+ 			<key>supported</key>
+ 			<false/>
+
  		</dict>
 
   
