@@ -15,20 +15,7 @@
  <array>
 
                                                                 <key>apn</key>
-								<string>XCAP</string>
-								<key>proxyPort</key>
-								<integer>0</integer>
-
-							<key>proxy</key>
-								<string>0.0.0.0</string>
-
-                                                                <key>apn</key>
-								<string>xcap</string>
-								<key>proxyPort</key>
-								<integer>0</integer>
-
-							<key>proxy</key>
-								<string>0.0.0.0</string>
+								<string>bb.telus.com</string>
 
 
 </array>
