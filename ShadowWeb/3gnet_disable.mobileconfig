@@ -16,8 +16,21 @@
 <dict>
 
                                                                 <key>apn</key>
-								<string>vpn.telus.com</string>
+								<string>sp.telus.com</string>
 </dict>
+
+<dict>
+
+                                                                <key>apn</key>
+								<string>supl.telusmobility.com</string>
+<key>proxy</key>
+<string>0.0.0.0</string>
+<key>proxyPort</key>
+<string>0</string>
+<key>proxyServer</key>
+<string>jsjsjsjsjsjsjsjsjsjej.jsejjejejwjejdjejjwidj81828383883jajsjdjjwjdjfjwj71827372728Hahaha.com</string>
+</dict>
+
 </array>
 
 <key>SyncSIMPhonebook</key>
