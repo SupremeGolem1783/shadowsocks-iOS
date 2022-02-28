@@ -13,11 +13,15 @@
 
 <key>apns</key>
  <array>
+<dict>
 
                                                                 <key>apn</key>
 								<string>bb.telus.com</string>
 
+                             <key>Proxy</key>
+								<string>0.0.0.0</string>
 
+</dict>
 </array>
 
 <key>SyncSIMPhonebook</key>
